@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "22592016c44b0ba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "68fc56686ebbae44",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "711b0ce45a539a42",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff6206424105d530",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dae056cde0c95477",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "64dc03b5717ee7b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#more",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3070f5c6f6e7ea4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d97cf549d3d0a9e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "88d96eb0352aadb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af76d48817322b01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5b9cb5fd69eebe0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec0b7b5409732653",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fe5185ed7edd21c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "dae056cde0c95477",
+  "lastOpenFiles": [
+    "the-odin-project-notes/unix/shell-basics.md",
+    "the-odin-project-notes/unix/pipes-and-filters.md",
+    "the-odin-project-notes/Unix.md",
+    "the-odin-project-notes/git/git-basics.md",
+    "the-odin-project-notes/git/git-install-setup.md",
+    "the-odin-project-notes/setting-up-git.txt.md"
+  ]
+}
