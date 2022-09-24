@@ -7,8 +7,12 @@
         "id": "68fc56686ebbae44",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "the-odin-project-notes/html-css/html-basics.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "the-odin-project-notes/html-css/html-basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "the-odin-project-notes/html-css/html-basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,22 +116,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "the-odin-project-notes/html-css/html-basics.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
-  "active": "dae056cde0c95477",
+  "active": "68fc56686ebbae44",
   "lastOpenFiles": [
-    "the-odin-project-notes/unix/shell-basics.md",
-    "the-odin-project-notes/unix/pipes-and-filters.md",
-    "the-odin-project-notes/Unix.md",
-    "the-odin-project-notes/git/git-basics.md",
+    "the-odin-project-notes/javascript/javascript-basics.md",
+    "the-odin-project-notes/general-notes.md",
+    "the-odin-project-notes/resources.md",
+    "the-odin-project-notes/html-css/html-basics.md",
+    "the-odin-project-notes/html-css/css-basics.md",
+    "the-odin-project-notes/git/git-commands.md",
+    "the-odin-project-notes/git/git-push-to-github.md",
     "the-odin-project-notes/git/git-install-setup.md",
-    "the-odin-project-notes/setting-up-git.txt.md"
+    "the-odin-project-notes/git/git-basics.md",
+    "the-odin-project-notes/Unix.md"
   ]
 }
