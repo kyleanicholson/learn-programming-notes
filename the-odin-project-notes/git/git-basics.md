@@ -4,6 +4,8 @@ Git is a program that allows you to annotate the history of a system (or group) 
 
 Git allows you to save and to restore to a previous **commit**, which could be considered a save state or similar to a system restore point in Windows. You can add comments to different commits to easily navigate through the different points in the history of your files.
 
+**When to commit?**
+if you get a piece of code you are working on to function like you want it to, fix a typo, or fix a bug
 
 Git enables you to review how your project grows and easily look at or restore file states from the past. 
 
