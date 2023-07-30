@@ -6,4 +6,3 @@
 			* When paired with the Rails framework, Ruby gives developers practically everything they need to build a website.
 		* **SQL** allows developers to maintain and optimize large databases
 * Different types of projects incorporate different languages - the main language you use depends on your specific project and business goals.
-* 
