@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4fa345cb510932e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/javascript/General Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8b26f52cf93cd9dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/git/git-push-to-github.md",
+                "file": "Web Development/Frameworks/React/lists.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/git/git-push-to-github.md",
+                "file": "Web Development/Frameworks/React/lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/git/git-push-to-github.md",
+                "file": "Web Development/Frameworks/React/lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/git/git-push-to-github.md"
+                "file": "Web Development/Frameworks/React/lists.md"
               }
             }
           }
@@ -169,11 +156,14 @@
   },
   "active": "8b26f52cf93cd9dd",
   "lastOpenFiles": [
+    "Web Development/Frameworks/React/components.md",
+    "Web Development/Frameworks/React/lists.md",
+    "Web Development/javascript/General Notes.md",
+    "Web Development/Frameworks/React/react-basics.md",
+    "Web Development/git/git-push-to-github.md",
     "Web Development/git/git-install-setup.md",
     "Web Development/git/git-commands.md",
-    "Web Development/Frameworks/React/components.md",
     "Web Development/Frameworks/React/getting-started.md",
-    "Web Development/Frameworks/React/react-basics.md",
     "Pasted image 20230729185317.png",
     "Web Development/code-snippets.md",
     "Web Development/general-notes.md",
@@ -185,7 +175,6 @@
     "Web Development/Frameworks",
     "Web Development/unix/shell-basics.md",
     "Web Development/unix/pipes-and-filters.md",
-    "Web Development/javascript/General Notes.md",
     "Web Development/javascript/javascript-basics.md",
     "Web Development/images/Pasted image 20221001183145.png",
     "Web Development/Untitled",
@@ -196,7 +185,6 @@
     "Web Development/images/Pasted image 20220925094048.png",
     "Web Development/images/Pasted image 20220926221218.png",
     "Web Development/html-css/html-basics.md",
-    "Web Development/git/git-push-to-github.md",
     "the-odin-project-notes/Unix.md"
   ]
 }
