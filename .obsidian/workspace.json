@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "34a2cb6b8297cbd6",
+        "id": "55ef0bb0961ec9bb",
         "type": "tabs",
         "children": [
           {
-            "id": "8b26f52cf93cd9dd",
+            "id": "7475a573b0b416b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Frameworks/React/lists.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 296.51103591918945
   },
   "right": {
     "id": "d97cf549d3d0a9e6",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Frameworks/React/lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Frameworks/React/lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/Frameworks/React/lists.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,22 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b26f52cf93cd9dd",
+  "active": "7475a573b0b416b3",
   "lastOpenFiles": [
-    "Web Development/Frameworks/React/components.md",
+    "Web Development/Frameworks/React/fundamentals.md",
+    "Web Development/Frameworks/React/react-general.md",
     "Web Development/Frameworks/React/lists.md",
+    "Web Development/Frameworks/React/getting-started.md",
+    "Web Development/Frameworks/React/other components.md",
+    "Pasted image 20230730190435.png",
     "Web Development/javascript/General Notes.md",
-    "Web Development/Frameworks/React/react-basics.md",
     "Web Development/git/git-push-to-github.md",
     "Web Development/git/git-install-setup.md",
     "Web Development/git/git-commands.md",
-    "Web Development/Frameworks/React/getting-started.md",
     "Pasted image 20230729185317.png",
     "Web Development/code-snippets.md",
     "Web Development/general-notes.md",
     "Web Development/general reference.md",
     "Web Development/Project Ideas.md",
-    "Untitled.md",
     "Web Development/Frameworks/React",
     "Web Development/Frameworks.md",
     "Web Development/Frameworks",

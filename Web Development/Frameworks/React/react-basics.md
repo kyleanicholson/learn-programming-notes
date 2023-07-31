@@ -1,3 +1,0 @@
-- React is a javascript framework that can be used for building single page applications
-- It was originally developed by Facebook as a way to help manage complex UI 
-- React is the most popular frontend framework right now and there are a lot of jobs for React developers. 
