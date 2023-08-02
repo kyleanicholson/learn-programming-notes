@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55ef0bb0961ec9bb",
+        "id": "3168bae4ec98317d",
         "type": "tabs",
         "children": [
           {
-            "id": "7475a573b0b416b3",
+            "id": "8e0645fd516cad84",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.51103591918945
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d97cf549d3d0a9e6",
@@ -146,12 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7475a573b0b416b3",
+  "active": "8e0645fd516cad84",
   "lastOpenFiles": [
     "Web Development/Frameworks/React/fundamentals.md",
     "Web Development/Frameworks/React/react-general.md",
-    "Web Development/Frameworks/React/lists.md",
     "Web Development/Frameworks/React/getting-started.md",
+    "Web Development/Frameworks/React/lists.md",
     "Web Development/Frameworks/React/other components.md",
     "Pasted image 20230730190435.png",
     "Web Development/javascript/General Notes.md",
