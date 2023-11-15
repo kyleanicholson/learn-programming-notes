@@ -2,7 +2,7 @@
 
 Websites and web applications are developed with a wide range of programming languages, some of which are more complex than others. Some of the most common web development languages today are HTML, CSS, JavaScript, PHP, Python, Ruby, Rust, Go, and SQL. Each of these languages serves a different purpose and can be useful in the right context. Some of this list are are not, in fact, considered programming languages at all, for example, HTML does not have logical operators and is technically a markup language. 
 
-### Overview of Programming Languages in Web Development
+###  Common Programming Languages in Web Development
 
 | Language   | Description                                       | Common Use                      |
 |------------|---------------------------------------------------|---------------------------------|
@@ -18,7 +18,8 @@ Websites and web applications are developed with a wide range of programming lan
 
 ## Why are there so many different languages?
 
- The main reason why there are so many different programming languages in web development is that all languages have a specific use case in which they excel -- in other words, they are well suited to specific types of tasks or some specific aspect of a project. Many websites, and especially web applications, incorporate multiple different programming languages, each of which handles the tasks that they are best suited for. For example, a basic modern website will use HTML and CSS for structuring and styling content and JavaScript to manage the site's behavior and user interactions. 
+ The main reason why there are so many different programming languages in web development is that all languages have a specific use case in which they excel -- in other words, they are well suited to certain types of tasks or some unique aspect of a project. Many websites, and especially web applications, incorporate multiple different programming languages, each of which handles the tasks that they are best suited for.
  
- You can accomplish a lot using only those three languages. It's possible to build an entire application using them, however, 
+ A basic modern website uses HTML and CSS for structuring and styling content and JavaScript to manage the site's behavior and user interactions. You can accomplish a lot using only those three languages. It's possible to build entire applications with them, but eventually an application might become so complex or used on a large enough scale that it will become reasonable to consider modifying parts of the application or adding additional 'layers' which are built using other programming languages. Languages such as Go and Rust have become increasingly popular as faster or more 'performant' alternatives for specific tasks. These languages excel in scenarios where speed, efficiency, and security are important.
+
 
