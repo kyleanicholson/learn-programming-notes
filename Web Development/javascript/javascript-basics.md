@@ -73,5 +73,3 @@ This string is saved into the memory area associated with the variable and can b
 ```javascript
 alert(message); // shows the variable content
 ```
-
-The declaration of messa

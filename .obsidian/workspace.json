@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/git/git-commands.md",
+                "file": "Web Development/programming-language-info.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/git/git-commands.md",
+                "file": "Web Development/programming-language-info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/git/git-commands.md",
+                "file": "Web Development/programming-language-info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/git/git-commands.md"
+                "file": "Web Development/programming-language-info.md"
               }
             }
           }
@@ -154,39 +154,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e0645fd516cad84",
+  "active": "dae056cde0c95477",
   "lastOpenFiles": [
-    "Web Development/images/Pasted image 20230729185317.png",
-    "Web Development/code-snippets.md",
-    "Web Development/html-css/dark-light-mode.md",
-    "Web Development/Project Ideas.md",
     "Web Development/general reference.md",
-    "Web Development/general-notes.md",
+    "For a complete list of commands, check bash-cmd-reference.pdf.md",
+    "Web Development/code-snippets.md",
+    "Web Development/unix/pipes-and-filters.md",
+    "Web Development/unix/shell-basics.md",
+    "Web Development/javascript/javascript-basics.md",
+    "Web Development/javascript/General Notes.md",
+    "Web Development/html-css/css-advanced.md",
+    "Web Development/html-css/html-basics.md",
+    "Web Development/html-css/dark-light-mode.md",
+    "Web Development/git/git-commands.md",
+    "Web Development/images/Pasted image 20230729185317.png",
+    "Web Development/Project Ideas.md",
+    "Web Development/programming-language-info.md",
     "Web Development/images/Pasted image 20230730190435.png",
     "Web Development/Frameworks/React/fundamentals.md",
     "Web Development/Frameworks/React/react-general.md",
     "Web Development/Frameworks/React/getting-started.md",
     "Web Development/Frameworks/React/lists.md",
     "Web Development/Frameworks/React/other components.md",
-    "Web Development/javascript/General Notes.md",
     "Web Development/git/git-push-to-github.md",
     "Web Development/git/git-install-setup.md",
-    "Web Development/git/git-commands.md",
     "Web Development/Frameworks/React",
     "Web Development/Frameworks.md",
     "Web Development/Frameworks",
-    "Web Development/unix/shell-basics.md",
-    "Web Development/unix/pipes-and-filters.md",
-    "Web Development/javascript/javascript-basics.md",
     "Web Development/images/Pasted image 20221001183145.png",
     "Web Development/Untitled",
     "Web Development/html-css/css-basics.md",
-    "Web Development/html-css/css-advanced.md",
     "Web Development/git/git-basics.md",
     "Web Development/images/Pasted image 20221011204201.png",
     "Web Development/images/Pasted image 20220925094048.png",
     "Web Development/images/Pasted image 20220926221218.png",
-    "Web Development/html-css/html-basics.md",
     "the-odin-project-notes/Unix.md"
   ]
 }
