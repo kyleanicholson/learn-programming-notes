@@ -52,6 +52,13 @@ Domain names are the human-readable addresses of websites on the internet, offer
 
 
 ## Web Programming 
+### What is programming?
+
+Programming is the art of creating instructions for computers to perform specific tasks, done by writing code in various languages like Python, JavaScript, or Java. At its core, programming involves understanding the problem you want to solve, then planning how to tackle it. This planning stage is crucial as it determines the structure and flow of your code.
+
+The actual process of programming is more than just typing out code; it's about translating your ideas and solutions into a language the computer understands. After writing the code, the next important steps are testing and debugging. This is where you make sure your program works as intended and fix any errors, known as bugs. Over time, you'll also update and maintain your program to add new features or improve performance.
+
+As a beginner in web development, understanding that programming is a combination of problem-solving, logical thinking, and creativity will help you grasp its essence. It's not just about writing code, but about bringing ideas to life and continuously refining them. Programming is a foundational skill in web development, enabling you to build and enhance websites and applications.
 
 ### What is a program?
 
@@ -59,15 +66,36 @@ A program, in the context of computing, is a set of instructions written in a pr
 
 Programs can be as varied as the tasks they are designed to perform. Some might handle calculations, others manage the way information is stored, and some help users interact with a computer or another device. Programs are what make computers useful, allowing them to not just perform generic calculations, but also carry out complex tasks like browsing the internet, editing photos, managing business operations, or even controlling robots.
 
-### What is programming?
+Here is an example a very simple program written using Python:
+
+```python
+# This program adds two numbers provided by the user
+
+# Taking input from the user
+number1 = input("Enter first number: ")
+number2 = input("Enter second number: ")
+
+# Converting the input from string to integer
+number1 = int(number1)
+number2 = int(number2)
+
+# Adding the numbers
+sum = number1 + number2
+
+# Displaying the sum
+print("The sum of", number1, "and", number2, "is", sum)
+
+```
+
 
 ### What is a programming language?
+
 A programming language is a formalized means of instructing a computer or machine to perform specific tasks or computations. It serves as a medium for humans to communicate with computers, giving them instructions in a way that computers can understand and execute. Programming languages vary widely in terms of their design, purpose, and application domains. The choice of a programming language depends on the specific task or project requirements, as well as personal preference and the community and ecosystem around the language.
 ### What are the Web Programming Languages? 
 
 Websites and web applications are developed with a wide range of programming languages, some of which are more complex than others. Some of the most common web development languages today are HTML, CSS, JavaScript, PHP, Python, Ruby, Rust, Go, and SQL. Each of these languages serves a different purpose and can be useful in the right context. Some of this list are are not, in fact, considered programming languages at all, for example, HTML does not have logical operators and is technically a markup language. 
 
-###  Common Programming Languages in Web Development
+###  Common Programming Languages in Web Development and their Use
 
 | Language   | Description                                       | Common Use                      |
 |------------|---------------------------------------------------|---------------------------------|
