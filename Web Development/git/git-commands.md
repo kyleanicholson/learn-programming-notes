@@ -10,6 +10,8 @@ git push or git push origin main # push to remote repo (main is branch name)
 # clone remote repo, recommended to use SSH
 git clone git@github.com:USER-NAME/REPOSITORY-NAME.git 
 
+# rebase
+
 
 
 ```

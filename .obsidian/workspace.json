@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/code-snippets.md",
+                "file": "Web Development/git/git-commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/code-snippets.md",
+                "file": "Web Development/git/git-commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/code-snippets.md",
+                "file": "Web Development/git/git-commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/code-snippets.md"
+                "file": "Web Development/git/git-commands.md"
               }
             }
           }
@@ -156,12 +156,13 @@
   },
   "active": "8e0645fd516cad84",
   "lastOpenFiles": [
-    "Web Development/Project Ideas.md",
+    "Web Development/images/Pasted image 20230729185317.png",
     "Web Development/code-snippets.md",
+    "Web Development/html-css/dark-light-mode.md",
+    "Web Development/Project Ideas.md",
     "Web Development/general reference.md",
     "Web Development/general-notes.md",
-    "Pasted image 20230729185317.png",
-    "Pasted image 20230730190435.png",
+    "Web Development/images/Pasted image 20230730190435.png",
     "Web Development/Frameworks/React/fundamentals.md",
     "Web Development/Frameworks/React/react-general.md",
     "Web Development/Frameworks/React/getting-started.md",
