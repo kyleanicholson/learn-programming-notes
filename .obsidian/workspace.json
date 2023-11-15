@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/programming-language-info.md",
+                "file": "Web Development/web-programming-essential-info.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/programming-language-info.md",
+                "file": "Web Development/web-programming-essential-info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/programming-language-info.md",
+                "file": "Web Development/web-programming-essential-info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/programming-language-info.md"
+                "file": "Web Development/web-programming-essential-info.md"
               }
             }
           }
@@ -154,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dae056cde0c95477",
+  "active": "8e0645fd516cad84",
   "lastOpenFiles": [
     "Web Development/general reference.md",
     "For a complete list of commands, check bash-cmd-reference.pdf.md",
@@ -169,7 +169,7 @@
     "Web Development/git/git-commands.md",
     "Web Development/images/Pasted image 20230729185317.png",
     "Web Development/Project Ideas.md",
-    "Web Development/programming-language-info.md",
+    "Web Development/web-programming-essential-info.md",
     "Web Development/images/Pasted image 20230730190435.png",
     "Web Development/Frameworks/React/fundamentals.md",
     "Web Development/Frameworks/React/react-general.md",
