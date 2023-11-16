@@ -97,6 +97,8 @@ Websites and web applications are developed with a wide range of programming lan
 
 ###  Common Programming Languages in Web Development and their Use
 
+
+
 | Language   | Description                                       | Common Use                      |
 |------------|---------------------------------------------------|---------------------------------|
 | HTML       | Markup language for structuring web content      | Creating web page structure     |
