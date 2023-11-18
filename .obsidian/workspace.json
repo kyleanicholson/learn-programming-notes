@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/html-css/SVGs.md",
+                "file": "Web Development/html-css/Tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/html-css/SVGs.md",
+                "file": "Web Development/html-css/Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/html-css/SVGs.md",
+                "file": "Web Development/html-css/Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/html-css/SVGs.md"
+                "file": "Web Development/html-css/Tables.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "8e0645fd516cad84",
   "lastOpenFiles": [
-    "Web Development/html-css/dark-light-mode.md",
     "Web Development/html-css/SVGs.md",
+    "Web Development/html-css/Tables.md",
+    "Web Development/html-css/dark-light-mode.md",
     "Web Development/web-programming-basic-info.md",
     "Web Development/snippets.md",
     "Web Development/general reference.md",
