@@ -1,12 +1,3 @@
-May want to try resizing logo by explicitly setting the width attribute: 
-
-```html
-<img src='images/mochi.jpg' width='75'/>
-```
-
-
-### CSS: Basic Table Styling
-
 ```css
 html {
   font-family: sans-serif;

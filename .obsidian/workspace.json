@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web frameworks/framework-basics.md",
+                "file": "css/units-ems, rems, px, vh, vw.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#more",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web frameworks/framework-basics.md",
+                "file": "css/units-ems, rems, px, vh, vw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web frameworks/framework-basics.md",
+                "file": "css/units-ems, rems, px, vh, vw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web frameworks/framework-basics.md"
+                "file": "css/units-ems, rems, px, vh, vw.md"
               }
             }
           }
@@ -156,13 +156,18 @@
   },
   "active": "8e0645fd516cad84",
   "lastOpenFiles": [
-    "databases/database-basics.md",
-    "databases/SQL.md",
+    "useful-snippets/CSS - Meyer Reset.md",
+    "css/units-ems, rems, px, vh, vw.md",
+    "useful-snippets/CSS - Basic Table Styling.md",
+    "css/css-resets.md",
     "web frameworks/framework-basics.md",
-    "Untitled.md",
-    "databases",
     "web dev general/web-programming-basic-info.md",
     "web dev general/code-snippets.md",
+    "useful-snippets",
+    "databases/database-basics.md",
+    "databases/SQL.md",
+    "Untitled.md",
+    "databases",
     "css/SVGs.md",
     "css/dark-light-mode.md",
     "html/html-advanced.md",
@@ -188,10 +193,6 @@
     "Web Development/Project Ideas.md",
     "javascript/libraries/React/fundamentals.md",
     "javascript/libraries/React/react-general.md",
-    "javascript/libraries/React/getting-started.md",
-    "Web Development/Frameworks/React/lists.md",
-    "Web Development/Frameworks/React/other components.md",
-    "git/git-push-to-github.md",
     "javascript/libraries/React",
     "javascript/libraries",
     "images/Pasted image 20221011204201.png"
