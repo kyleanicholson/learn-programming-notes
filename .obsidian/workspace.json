@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/web-programming-basic-info.md",
+                "file": "Web Development/html-css/SVGs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/web-programming-basic-info.md",
+                "file": "Web Development/html-css/SVGs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/web-programming-basic-info.md",
+                "file": "Web Development/html-css/SVGs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/web-programming-basic-info.md"
+                "file": "Web Development/html-css/SVGs.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "8e0645fd516cad84",
   "lastOpenFiles": [
-    "Web Development/snippets.md",
+    "Web Development/html-css/dark-light-mode.md",
+    "Web Development/html-css/SVGs.md",
     "Web Development/web-programming-basic-info.md",
+    "Web Development/snippets.md",
     "Web Development/general reference.md",
     "Web Development/frameworks",
     "For a complete list of commands, check bash-cmd-reference.pdf.md",
@@ -167,7 +169,6 @@
     "Web Development/javascript/General Notes.md",
     "Web Development/html-css/css-advanced.md",
     "Web Development/html-css/html-basics.md",
-    "Web Development/html-css/dark-light-mode.md",
     "Web Development/git/git-commands.md",
     "Web Development/images/Pasted image 20230729185317.png",
     "Web Development/Project Ideas.md",
