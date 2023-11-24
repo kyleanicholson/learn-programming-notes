@@ -156,9 +156,10 @@
   },
   "active": "8ebe62c3c25094f6",
   "lastOpenFiles": [
-    "css/forms.md",
-    "useful-snippets/CSS - Basic Table Styling.md",
+    "useful-snippets/CSS- System UI Font Stack.md",
     "useful-snippets/CSS - Meyer Reset.md",
+    "useful-snippets/CSS - Basic Table Styling.md",
+    "css/forms.md",
     "css/tables.md",
     "css/SVGs.md",
     "css/units.md",
@@ -192,7 +193,6 @@
     "javascript/General Notes.md",
     "css/css-advanced.md",
     "git/git-commands.md",
-    "Web Development/Project Ideas.md",
     "javascript/frameworks/React",
     "javascript/frameworks",
     "images/Pasted image 20221011204201.png"

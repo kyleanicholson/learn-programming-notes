@@ -110,8 +110,154 @@ To collect dates from a user, we can use a `date input`. This input is unique be
 
 While technically not an input element, the text area element provides an input box that can accept text that spans multiple lines like user comments and reviews. It can also be resized by clicking and dragging the bottom right corner to make it bigger or smaller.
 
-To create a text area, we use the `<textarea>` element:
+To create a text area, we use the `<textarea>` element *closing tag required*:
 
 ```html
 <textarea></textarea>
+```
+
+You can place content inside the textarea if you want the field to have initial content. 
+```html
+<textarea>Some initial content</textarea>
+```
+
+`rows` and `cols` attributes allow you to control the initial height (rows) and width (cols) of the text area:
+```html
+<textarea rows="20" cols="60"></textarea>
+```
+
+
+### Select dropdown
+The select element renders a dropdown list where users can select an option. Syntactically, select elements have similar markup to unordered lists. The select element wraps option elements which are the options that can be selected.
+
+```html
+<select name="Car">
+  <option value="mercedes">Mercedes</option>
+  <option value="tesla">Tesla</option>
+  <option value="volvo">Volvo</option>
+  <option value="bmw">BMW</option>
+  <option value="mini">Mini</option>
+  <option value="ford">Ford</option>
+</select>
+```
+
+All the option elements should have a `value` attribute (otherwise the text content inside is used). This value will be sent to the server when the form is submitted.
+
+We can set one of the options to be the default selected element when the browser first renders the form by giving one of the options the `selected` attribute:
+
+```html
+<select name="Car">
+  <option value="mercedes">Mercedes</option>
+  <option value="tesla">Tesla</option>
+  <option value="volvo" selected>Volvo</option>
+  <option value="bmw">BMW</option>
+  <option value="mini">Mini</option>
+  <option value="ford">Ford</option>
+</select>
+```
+We may also split the list of options into groups using the `<optgroup>` element. The optgroup element takes a `label` attribute which the browser uses as the label for each group:
+```html
+<select name="fashion">
+  <optgroup label="Clothing">
+    <option value="t_shirt">T-Shirts</option>
+    <option value="sweater">Sweaters</option>
+    <option value="coats">Coats</option>
+  </optgroup>
+  <optgroup label="Foot Wear">
+    <option value="sneakers">Sneakers</option>
+    <option value="boots">Boots</option>
+    <option value="sandals">Sandals</option>
+  </optgroup>
+</select>
+```
+
+### Radio Buttons
+
+Select dropdowns are great for saving space on the page when we have an extensive list of options we want users to choose from. However, when we have a smaller list of 5 or fewer options to choose from, it is often a better user experience to have them displayed on the page instead of hidden behind a dropdown. Radio buttons allow us to create multiple options that the user can choose one of. To create radio buttons, we use the ever adaptable input element again with a `type` attribute of “radio”:
+
+```html
+<h1>Ticket Type</h1>
+<div>
+  <input type="radio" id="child" name="ticket_type" value="child">
+  <label for="child">Child</label>
+</div>
+
+<div>
+  <input type="radio" id="adult" name="ticket_type" value="adult">
+  <label for="adult">Adult</label>
+</div>
+
+<div>
+  <input type="radio" id="senior" name="ticket_type" value="senior">
+  <label for="senior">Senior</label>
+</div>
+```
+
+We can set the default selected radio button by adding the `checked` attribute to it:
+
+```html
+<h1>Ticket Type</h1>
+<div>
+  <input type="radio" id="child" name="ticket_type" value="child">
+  <label for="child">Child</label>
+</div>
+
+<div>
+  <input type="radio" id="adult" name="ticket_type" value="adult" checked>
+  <label for="adult">Adult</label>
+</div>
+
+<div>
+  <input type="radio" id="senior" name="ticket_type" value="senior">
+  <label for="senior">Senior</label>
+</div>
+```
+
+
+**Checkboxes**
+
+Checkboxes are similar to radio buttons in that they allow users to choose from a set of predefined options. But unlike radio buttons, they allow multiple options to be selected at once.
+
+To create a checkbox, we use the input element with a `type` attribute of “checkbox”:
+
+```html
+<h1>Pizza Toppings</h1>
+
+<div>
+  <input type="checkbox" id="sausage" name="topping" value="sausage">
+  <label for="sausage">Sausage</label>
+</div>
+
+<div>
+  <input type="checkbox" id="onions" name="topping" value="onions">
+  <label for="onions">Onions</label>
+</div>
+
+<div>
+  <input type="checkbox" id="pepperoni" name="topping" value="pepperoni">
+  <label for="pepperoni">Pepperoni</label>
+</div>
+
+<div>
+  <input type="checkbox" id="mushrooms" name="topping" value="mushrooms">
+  <label for="mushrooms">Mushrooms</label>
+</div>
+```
+
+We can also have a single checkbox when we want users to toggle if they want something to be true or false. Like signing up to a newsletter when they create an account for example:
+
+```html
+<div>
+  <input type="checkbox" id="newsletter" name="news_letter">
+  <label for="newsletter">Send me the news letter</label>
+</div>
+```
+
+We can set checkboxes to be checked by default on page load by giving them a `checked` attribute:
+
+```html
+<div>
+  <input type="checkbox" id="newsletter" name="news_letter" checked>
+  <label for="newsletter">Send me the news letter</label>
+</div>
 ```
