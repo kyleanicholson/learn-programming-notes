@@ -1,6 +1,13 @@
-**Forms** are one of the most critical parts of any website. They are a user's gateway into the website's back end - the user provides data in a form, and the website does stuff with it. 
+**Forms** are one of the most critical parts of any website. They are a user's gateway into the website's back end - the user provides data in a form, and the website does stuff with it.  Forms are also used on the client-side to immediately update the interface in some way (for example, add another item to a list, or show or hide a UI feature).
 
 Each form input needs to have the proper type of input since there are often multiple ways to collect data, but there is only one 'easiest' way for the user. 
+
+From a user experience (UX) point of view, it's important to remember that the bigger your form, the more you risk frustrating people and losing users. Keep it simple and stay focused: ask only for the data you absolutely need.
+
+**Forms can make a website usable** or unusable, because they stand in the way of the user achieving their goal;
+
+**Forms need to be usable** in order to help the user achieve that goal.
+
 
 ## Form action and method
 
@@ -370,3 +377,14 @@ A common use-case for these elements is using a fieldset to group radio buttons 
   </div>
 </fieldset>
 ```
+
+
+## Form Design Guideline
+
+- **Relationships are based on trust**, so establishing trust in your form is critical. This can be achieved through the logo, imagery, color, typography and wording. The user will feel at ease knowing that the form comes from a sincere organization.
+- **Every relationship has a goal**, be it love and happiness in a romantic relationship or financial gain in a business relationship. Ask yourself, what is the goal of your form?
+- **Base the name of the form on its purpose.**. That name will inform users what the form is about and why they should fill it in.
+- Just as in a relationship, **getting to know the other person** is essential. Get to know your users and always consider whether the questions you’re asking are appropriate and, if so, whether they are timely. This will instill a natural flow to your form.
+- Knowing your users will also help you **choose appropriate language and remove superfluous text**. And it will help you craft an interface that balances your needs and the user’s.
+- **Do not ask questions beyond the scope of the form**. In a relationship, you would become distrustful of someone who asked questions that were out of place. The same thing happens online. Consult with relevant stakeholders to see what information really is required.
+- **Sudden changes in behavior or appearance** will make users edgy. Likewise, never introduce sudden changes between forms or between steps in a form.
