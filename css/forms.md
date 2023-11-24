@@ -261,3 +261,112 @@ We can set checkboxes to be checked by default on page load by giving them a `ch
   <label for="newsletter">Send me the news letter</label>
 </div>
 ```
+
+
+### Buttons
+The button element creates clickable buttons that the user can interact with to submit forms and trigger other actions.
+
+To create a button, we use the `<button>` element. The content or text we want to have displayed inside the button will go within the opening and closing tags:
+
+```html
+<button>Click Me</button>
+```
+
+The button element also accepts a `type` attribute that tells the browser which kind of button it is dealing with. There are three types of buttons available to us.
+
+**Submit buttons**
+When a submit button is clicked, it will submit the form it is contained within. The `type` attribute has a value of submit by default, i.e. if the `type` is not specified or the value provided is invalid.
+
+```html
+<button type="submit">Submit</button>
+```
+
+
+**Reset button**
+
+A reset button clears all the data the user has entered into the form and sets all the inputs in the form back to what they were initially.
+
+To create a reset button, we use the button element with a `type` attribute of “reset”:
+```html
+<button type="reset">Reset</button>
+```
+
+**Generic button**
+The third and final button type is simply a generic button that can be used for anything. It’s commonly used with JS for creating interactive UI’s.
+To create a generic button, we use the button element with a `type` attribute of “button”:
+
+```html
+<button type="button">Click to Toggle</button>
+```
+
+
+### Organizing form elements
+
+In larger forms, users can easily get overwhelmed and discouraged if there are many inputs to fill in.  HTML provides a couple of elements that make it easy to organize forms into sections that are visually distinct and manageable to digest.
+
+**Fieldset element** 
+The fieldset element is a container element that allows us to group related form inputs into one logical unit. To create a fieldset, we use the `<fieldset>` element. Whatever form inputs we want to group together go within the opening and closing fieldset tags:
+
+```html
+<fieldset>
+  <label for="first_name">First Name</label>
+  <input type="text" id="first_name" name="first_name">
+
+  <label for="last_name">Last Name</label>
+  <input type="text" id="last_name" name="last_name">
+</fieldset>
+```
+
+**Legend**
+The legend element is used to give field sets a heading or caption so the user can see what a grouping of inputs is for.
+
+To create a legend, we use the `<legend>` element with the text we want to display within its opening and closing tags. A legend should always come right after an opening fieldset tag:
+```html
+<fieldset>
+  <legend>Contact Details</legend>
+
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name">
+
+  <label for="phone_number">Phone Number:</label>
+  <input type="tel" id="phone_number" name="phone_number">
+
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email">
+</fieldset>
+
+<fieldset>
+  <legend>Delivery Details</legend>
+
+  <label for="street_address">Street Address:</label>
+  <input type="text" id="street_address" name="street_address">
+
+  <label for="city">City:</label>
+  <input type="text" id="city" name="city">
+
+  <label for="zip_code">Zip Code:</label>
+  <input type="text" id="zip_code" name="zip_code">
+</fieldset>
+```
+
+A common use-case for these elements is using a fieldset to group radio buttons and using a legend to communicate to the user what each of the options is ultimately for:
+```html
+<fieldset>
+  <legend>What would you like to drink?</legend>
+
+  <div>
+    <input type="radio" name="drink" id="coffee" value="coffee">
+    <label for="coffee">Coffee</label>
+  </div>
+
+  <div>
+    <input type="radio" name="drink" id="tea" value="tea">
+    <label for="tea">Tea</label>
+  </div>
+
+  <div>
+    <input type="radio" name="drink" id="soda" value="soda">
+    <label for="soda">Soda</label>
+  </div>
+</fieldset>
+```
