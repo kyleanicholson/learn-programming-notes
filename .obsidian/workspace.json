@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/styling forms.md",
+                "file": "html/form.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/styling forms.md",
+                "file": "html/form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/styling forms.md",
+                "file": "html/form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/styling forms.md"
+                "file": "html/form.md"
               }
             }
           }
@@ -154,16 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dae056cde0c95477",
+  "active": "8ebe62c3c25094f6",
   "lastOpenFiles": [
-    "useful-snippets/CSS - Basic Table Styling.md",
+    "html/form-design.md",
+    "html/form.md",
     "css/styling forms.md",
+    "useful-snippets/CSS - Basic Table Styling.md",
     "useful-snippets/CSS - Meyer Reset.md",
     "useful-snippets/CSS- System UI Font Stack.md",
     "useful-snippets/HTML - Autocomplete Box.md",
     "databases/database-basics.md",
     "databases/SQL.md",
-    "html/forms.md",
     "html/html-advanced.md",
     "Untitled.md",
     "html/Forms.md",
@@ -192,7 +193,6 @@
     "unix/pipes-and-filters.md",
     "unix/shell-basics.md",
     "javascript/javascript-basics.md",
-    "javascript/General Notes.md",
     "javascript/frameworks/React",
     "javascript/frameworks",
     "images/Pasted image 20221011204201.png"
