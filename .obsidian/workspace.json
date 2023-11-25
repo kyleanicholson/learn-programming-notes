@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useful-snippets/HTML - Autocomplete Box.md",
+                "file": "css/Styling Forms.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useful-snippets/HTML - Autocomplete Box.md",
+                "file": "css/Styling Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "useful-snippets/HTML - Autocomplete Box.md",
+                "file": "css/Styling Forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useful-snippets/HTML - Autocomplete Box.md"
+                "file": "css/Styling Forms.md"
               }
             }
           }
@@ -156,10 +156,13 @@
   },
   "active": "8ebe62c3c25094f6",
   "lastOpenFiles": [
-    "useful-snippets/CSS- System UI Font Stack.md",
     "useful-snippets/CSS - Basic Table Styling.md",
+    "css/Styling Forms.md",
     "useful-snippets/CSS - Meyer Reset.md",
+    "useful-snippets/CSS- System UI Font Stack.md",
     "useful-snippets/HTML - Autocomplete Box.md",
+    "databases/database-basics.md",
+    "databases/SQL.md",
     "html/forms.md",
     "html/html-advanced.md",
     "Untitled.md",
@@ -172,8 +175,6 @@
     "web dev general/web-programming-basic-info.md",
     "web dev general/code-snippets.md",
     "useful-snippets",
-    "databases/database-basics.md",
-    "databases/SQL.md",
     "databases",
     "css/dark-light-mode.md",
     "html/html-basics.md",
@@ -192,7 +193,6 @@
     "unix/shell-basics.md",
     "javascript/javascript-basics.md",
     "javascript/General Notes.md",
-    "css/css-advanced.md",
     "javascript/frameworks/React",
     "javascript/frameworks",
     "images/Pasted image 20221011204201.png"
