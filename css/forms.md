@@ -8,7 +8,6 @@ From a user experience (UX) point of view, it's important to remember that the b
 
 **Forms need to be usable** in order to help the user achieve that goal.
 
-
 ## Form action and method
 
 The `form` element is a container element that wraps all of the inputs a user will interact with on a form. 
@@ -43,6 +42,15 @@ Example of a text input:
 
 Text inputs accept any text input. For example, you would use it to collect things like users’ first and last names.
 
+### Hidden content
+
+Another original text control is the `hidden` input type. This is used to create a form control that is invisible to the user, but is still sent to the server along with the rest of the form data once submitted — for example you might want to submit a timestamp to the server stating when an order was placed. Because it is hidden, the user can not see nor intentionally edit the value, it will never receive focus, and a screen reader will not notice it either.
+
+```html
+<input type="hidden" id="timestamp" name="timestamp" value="1286705410" />
+```
+
+If you create such an element, it's required to set its `name` and `value` attributes. The value can be dynamically set via JavaScript. The `hidden` input type should not have an associated label.
 ### Labels
 
 We can give our inputs a label to inform users what type of data they are expected to enter. To create a label, we use the `<label>` element. The text we want displayed in the label will go between its opening and closing tags:
@@ -133,7 +141,14 @@ You can place content inside the textarea if you want the field to have initial 
 <textarea rows="20" cols="60"></textarea>
 ```
 
+### [File picker](https://developer.mozilla.org/en-US/docs/Learn/Forms/Basic_native_form_controls#file_picker)
 
+ Forms are able to send files to a server (this specific action is also detailed in the [Sending form data](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data) article). The file picker widget can be used to choose one or more files to send.
+```html
+<input type="file" name="file" id="file" accept="image/*" multiple />
+
+```
+The types of files that are accepted can be constrained using the [`accept`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#accept) attribute. In addition, if you want to let the user pick more than one file, you can do so by adding the [`multiple`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#multiple) attribute.
 ### Select dropdown
 The select element renders a dropdown list where users can select an option. Syntactically, select elements have similar markup to unordered lists. The select element wraps option elements which are the options that can be selected.
 
@@ -381,6 +396,12 @@ A common use-case for these elements is using a fieldset to group radio buttons 
 
 ## Form Design Guidelines
 
+It's common practice to wrap a label and its widget with a [`<li>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li) element within a [`<ul>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul) or [`<ol>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) list. [`<p>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) and [`<div>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div) elements are also commonly used. Lists are recommended for structuring multiple checkboxes or radio buttons.
+
+In addition to the [`<fieldset>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset) element, it's also common practice to use HTML titles (e.g. [h1](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements), [h2](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)) and sectioning (e.g. [`<section>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)) to structure complex forms.
+
+Above all, it is up to you to find a comfortable coding style that results in accessible, usable forms. Each separate section of functionality should be contained in a separate [`<section>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section) element, with [`<fieldset>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset) elements to contain radio buttons.
+
 Web forms should generally have these six components:
 
 1. **Labels**  
@@ -422,16 +443,25 @@ Despite differences in layout, functionality and purpose, all forms have three m
 - **Remove clutter** such as banners and unnecessary navigation that might distract users from filling out the form.
 - **Order the labels logically**, reflecting the natural flow of a conversation. For example, wouldn’t it be weird to ask someone their name only after having asked a number of other questions? More involved questions should come towards the end of the form.
 - **Group related information**, such as personal details. The flow from one set of questions to the next will better resemble a conversation.
-- 
+-
 ### Appearance Guidelines
 #### Labels
 * If the purpose of a label is simple to understand, such as to ask for a name or telephone number, then a word or two should suffice. But a phrase or sentence might be necessary to eliminate ambiguity.
-* Sentence case is slightly easier — and thus faster — to follow grammatically than title case. One thing is for sure: never use all caps, or else the form would look unprofessional and be difficult to scan
-
+* Sentence case is slightly easier  to follow grammatically than title case. Never use all caps, or else the form would look unprofessional and be difficult to scan
 #### Input Fields
 - Provide the appropriate type of input field based on what is being requested. Each type of input field has its own characteristics, which users are accustomed to.
-
 #### Actions
 Primary actions are links and buttons in a form that perform essential “final” functionality, such as “Save” and “Submit.” Secondary actions, such as “Back” and “Cancel,” enable users to retract data that they have entered
 	- Use only primary actions where possible. If you must include secondary actions, give them less visual weight than primary actions.
 - Avoid generic words such as “Submit” for actions, because they give the impression that the form itself is generic. Descriptive words and phrases, such as “Join LinkedIn,” are preferred.
+#### Help
+* Should never need to explain how to fill out a form - if it doesn't look like a form or it's too complicated to fill out, redesigning is the only option. Accompanying text should be used only where needed.
+* Show help only where required - could show an icon next to input that the user can click if they need help for that field. Can also display help when a user clicks into a specific field.
+
+#### Messages
+* Error messages should be emphasized through color, prominence (typically at the top of the form or beside the error, large, font, or a combination of these.
+* Success messages encourage user to continue filling out the form - should be prominent but not hinder user from continuing.
+
+#### Validation
+* Only use where needed - excessive validation frustrates users.
+* Use smart defaults to make form completion faster and more accurate.
