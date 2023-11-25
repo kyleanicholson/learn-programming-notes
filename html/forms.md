@@ -25,6 +25,7 @@ Example form element:
 </form>
 ```
 
+*Note*: *You can use any of the form controls HTML provides outside of the `<form>` element, even when you don’t have a backend server where you can send data*. *For example you might want to have an input that gets some data from a user and display that somewhere else on the page with JavaScript.*
 
 ## Form Controls
 
@@ -130,11 +131,6 @@ We also need to let the backend, where we send our data, know what each piece of
 
 The `name` attribute serves as a reference to the data inputted into a form control after submitting it. You can think of it as a variable name for the input. Form input should always have a `name` attribute; otherwise, it will be ignored when the form is submitted.
 
-### **Using form controls outside of forms**
-
-You can use any of the form controls HTML provides outside of the `<form>` element, even when you don’t have a backend server where you can send data.
-
-For example you might want to have an input that gets some data from a user and display that somewhere else on the page with JavaScript.
 
 
 ### **The type attribute**
@@ -186,6 +182,13 @@ The `required` attribute tells the browser that the field is mandatory. The brow
 <input required type="text" id="name" name="name">
 ```
 
+### The pattern attribute
+
+Sometimes you want to define more advanced validation rules. Again, you can use an HTML attribute. It's called `pattern`, and you can define a [regular expression](https://regex101.com/) as the value.
+
+```html
+<label for="animal">What is your favorite animal? (required)</label><input required pattern="[a-z]{2,20}" type="text" id="animal" name="animal">
+```
 ### **Text area**
 
 While technically not an input element, the text area element provides an input box that can accept text that spans multiple lines like user comments and reviews. It can also be resized by clicking and dragging the bottom right corner to make it bigger or smaller.
@@ -266,7 +269,7 @@ Multiple choice select boxes are also possible using `multiple` attribute
 
 ```
 
-**Autocomplete box**
+### Autocomplete box
 You can provide suggested, automatically-completed values for form widgets using the [`<datalist>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist) element with child [`<option>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option) elements to specify the values to display. The `<datalist>` needs to be given an `id`.
 
 The data list is then bound to an [`<input>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input) element (e.g. a `text` or `email` input type) using the [`list`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#list) attribute, the value of which is the `id` of the data list to bind.
@@ -508,6 +511,7 @@ A progress bar represents a value that changes over time up to a maximum value s
 <progress max="100" value="75">75/100</progress>
 
 ```
+
 
 
 

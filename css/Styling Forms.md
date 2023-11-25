@@ -50,3 +50,9 @@ legend {
 ```
 
 The `<fieldset>` needs to be positioned too, so that the `<legend>` is positioned relative to it (otherwise the `<legend>` would be positioned relative to the `<body>`).
+
+You can style `required` fields with the `:required` CSS pseudo class.
+
+```css
+input:required {  border: 2px solid;}
+```
