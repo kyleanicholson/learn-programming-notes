@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/Styling Forms.md",
+                "file": "css/styling forms.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/Styling Forms.md",
+                "file": "css/styling forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/Styling Forms.md",
+                "file": "css/styling forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/Styling Forms.md"
+                "file": "css/styling forms.md"
               }
             }
           }
@@ -154,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ebe62c3c25094f6",
+  "active": "dae056cde0c95477",
   "lastOpenFiles": [
     "useful-snippets/CSS - Basic Table Styling.md",
-    "css/Styling Forms.md",
+    "css/styling forms.md",
     "useful-snippets/CSS - Meyer Reset.md",
     "useful-snippets/CSS- System UI Font Stack.md",
     "useful-snippets/HTML - Autocomplete Box.md",
