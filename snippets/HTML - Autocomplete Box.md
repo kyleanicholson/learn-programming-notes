@@ -14,3 +14,5 @@
 ```
 
 [Source](https://developer.mozilla.org/en-US/docs/Learn/Forms/Other_form_controls#autocomplete_box)
+
+#html #snippets

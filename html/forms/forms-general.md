@@ -121,6 +121,7 @@ To guide users on what to enter in form elements, we can include placeholder tex
 <input type="text" id="first_name" placeholder="Bob...">
 ```
 
+In general it's best to use the label instead of placeholder to explain a form control, or add an extra HTML element beneath the form control to add an explanation or example.
 ### **The name attribute**
 
 We also need to let the backend, where we send our data, know what each piece of data represents. We do this by adding a `name` attribute to our inputs:
@@ -197,9 +198,13 @@ Sometimes you want to define more advanced validation rules. Again, you can use 
 ```html
 <label for="animal">What is your favorite animal? (required)</label><input required pattern="[a-z]{2,20}" type="text" id="animal" name="animal">
 ```
+
+### The inputmode attribute
+`inputmode` attribute is supported on [Android and iOS](https://caniuse.com/?search=inputmode). In contrast to the `type` attribute, the `inputmode` attribute only changes the on-screen keyboard provided, not the behavior of the element itself. Using `inputmode` is a good option if you want to keep the default user interface and the default validation rules of an `<input>`
+Use `inputmode="numeric"` to get a numeric on-screen keyboard (only for incremental fields)
 ### **Text area**
 
-While technically not an input element, the text area element provides an input box that can accept text that spans multiple lines like user comments and reviews. It can also be resized by clicking and dragging the bottom right corner to make it bigger or smaller.
+While technically not an input element, the text area element provides an input box that can accept text that spans multiple lines like user comments and reviews. It can also be resized by clicking and dragging the bottom right corner to make it bigger or smaller. You can disable the resizing, but this is generally considered bad for Ux. Instead, use `resize: vertical` to ensure users can resize vertically but not horizontally.
 
 To create a text area, we use the `<textarea>` element *closing tag required*:
 

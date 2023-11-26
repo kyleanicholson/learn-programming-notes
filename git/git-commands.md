@@ -11,7 +11,7 @@ git push or git push origin main # push to remote repo (main is branch name)
 git clone git@github.com:USER-NAME/REPOSITORY-NAME.git 
 
 # rebase
-
-
+git rebase <base>
+git rebase --interactive <base> # interactive mode
 
 ```
