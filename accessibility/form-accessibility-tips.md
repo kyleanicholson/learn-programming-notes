@@ -1,0 +1,2 @@
+* Every form control must have an associated `<label>` element. The `<label>` element describes the purpose of a form control. The `<label>` text is visually associated with the form control, and read out by screen readers.
+* Use semantic html elements 
