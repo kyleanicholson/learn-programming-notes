@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce9ebbc134209752",
+            "id": "ba122ae37da89501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/CSS-Enlarge-Form-Text.md",
+                "file": "snippets/JS - ShowHide-Password.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6594b3bc59fd2a57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascript/forms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/CSS-Enlarge-Form-Text.md",
+                "file": "javascript/forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/CSS-Enlarge-Form-Text.md",
+                "file": "javascript/forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/CSS-Enlarge-Form-Text.md"
+                "file": "javascript/forms.md"
               }
             }
           }
@@ -154,11 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce9ebbc134209752",
+  "active": "6594b3bc59fd2a57",
   "lastOpenFiles": [
+    "snippets/JS - ShowHide-Password.md",
+    "snippets/CSS-Enlarge-Form-Text.md",
+    "javascript/forms.md",
+    "codepens.md",
+    "codepens/web.dev Signup Form.md",
+    "codepens",
     "snippets/JS - Custom Error Messages.md",
     "snippets/HTML - Autocomplete Box.md",
-    "snippets/CSS-Enlarge-Form-Text.md",
     "snippets/CSS - Meyer Reset.md",
     "snippets/CSS - Basic Table Styling.md",
     "html/forms/forms-general.md",
@@ -177,14 +195,10 @@
     "snippets/CSS- System UI Font Stack.md",
     "databases/database-basics.md",
     "databases/SQL.md",
-    "Untitled.md",
     "html/Forms.md",
     "css/tables.md",
     "css/SVGs.md",
     "css/units.md",
-    "css/css-resets.md",
-    "web frameworks/framework-basics.md",
-    "web dev general/web-programming-basic-info.md",
     "snippets",
     "databases",
     "html",
