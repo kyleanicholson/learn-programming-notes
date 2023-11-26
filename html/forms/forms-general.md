@@ -171,6 +171,16 @@ There are other examples where it can still be hard for browsers to identify the
 ```
 If you have entered a name before, the browser will probably offer the option to fill it in.
 
+You can use `autocomplete="email"` for an email field, so users get the autofill option for an email address.
+
+As this is a sign-up form, users shouldn't get the option to fill in previously used passwords. You can use `autocomplete="new-password"` to ensure browsers offer the option to generate a new password.
+
+There are values for the credit card number `cc-number`, credit card expiration date `cc-exp`, and [all other information needed](https://developer.mozilla.org/docs/Web/HTML/Attributes/autocomplete#values) for a credit card payment
+
+Sometimes it's important to directly disable autofill - for example for a one-time code field:
+```html
+<label for="one-time-code">One-time code</label><input autocomplete="off" type="text" name="one-time-code" id="one-time-code">
+```
 ### The required attribute
 
 The `required` attribute tells the browser that the field is mandatory. The browser also tests if the entered data matches the format of the `type`. The email field shown in the example is only valid if it's not empty and if the entered data is a valid email address.

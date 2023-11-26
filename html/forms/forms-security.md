@@ -1,5 +1,0 @@
-**Note:** A secure form means that all data is encrypted, kept secure, and no unauthorized access can happen. To ensure privacy, only save the data you need, only save personal data after consent, ensure the user is in full control of their data, and never share user data with others without the user's consent.
-
-* Request as little data s possible- don't ask for data you don't need, and always question whether you need all the requested data.
-* Always use HTTPS, especially for pages that include a form  (encrypts data when coming from the server and going back to server.
-	* Say you're sitting in a café using public Wi-Fi. You open an e-commerce site and fill in your credit card information to purchase something. If the website uses HTTP, anyone (with the skills to do so) on the same public Wi-Fi could see your credit card information

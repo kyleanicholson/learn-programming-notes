@@ -1,0 +1,11 @@
+**Note:** A secure form means that all data is encrypted, kept secure, and no unauthorized access can happen. To ensure privacy, only save the data you need, only save personal data after consent, ensure the user is in full control of their data, and never share user data with others without the user's consent.
+
+* Request as little data as possible- don't ask for data you don't need, and always question whether you need all the requested data.
+* Ensure users can safely sign up and sign in- don't try to create your own authentication service.
+* Always use HTTPS, especially for pages that include a form  (encrypts data when coming from the server and going back to server.
+	* Say you're sitting in a café using public Wi-Fi. You open an e-commerce site and fill in your credit card information to purchase something. If the website uses HTTP, anyone (with the skills to do so) on the same public Wi-Fi could see your credit card information
+* Use `POST` requests for every form where data that's personal or otherwise sensitive may be submitted. This way, the data is only visible to the backend script processing it.
+* Don't use localStorage to store personal data in the browser.
+* Make it easy for users to update their personal data, including passwords, email addresses, and usernames. Notify users about changes to their stored personal data, and ensure users can revoke changes. For example, send an email to the previous and new email address after users change their email address
+* Frontend validation is important, but users might still be able to submit invalid data. As a next step, you must also validate the data [on the backend](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html) before saving the data in your database. This ensures that no invalid data is saved in your database.
+* Ensure all submissions come from real people-- The first option is to use a service such as [reCAPTCHA](https://www.google.com/recaptcha/about/), to distinguish between real people and bots. This requires you to include a JavaScript snippet on your page, and add extra attributes to your **Submit** button.
