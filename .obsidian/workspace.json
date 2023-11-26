@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "accessibility/form-accessibility-tips.md",
+                "file": "html/forms/forms-security.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "accessibility/form-accessibility-tips.md",
+                "file": "html/forms/forms-security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "accessibility/form-accessibility-tips.md",
+                "file": "html/forms/forms-security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "accessibility/form-accessibility-tips.md"
+                "file": "html/forms/forms-security.md"
               }
             }
           }
@@ -156,10 +156,14 @@
   },
   "active": "8ebe62c3c25094f6",
   "lastOpenFiles": [
-    "html/forms.md",
+    "html/forms/forms-general.md",
+    "html/forms/form-design.md",
+    "html/forms/forms-security.md",
+    "html/forms",
+    "html/inspecting-html.md",
+    "html/html-basics.md",
     "accessibility/form-accessibility-tips.md",
     "accessibility",
-    "html/form-design.md",
     "useful-snippets/JS - Custom Error Messages.md",
     "css/styling forms.md",
     "useful-snippets/CSS - Basic Table Styling.md",
@@ -168,7 +172,6 @@
     "useful-snippets/HTML - Autocomplete Box.md",
     "databases/database-basics.md",
     "databases/SQL.md",
-    "html/html-advanced.md",
     "Untitled.md",
     "html/Forms.md",
     "css/tables.md",
@@ -181,7 +184,6 @@
     "useful-snippets",
     "databases",
     "css/dark-light-mode.md",
-    "html/html-basics.md",
     "html",
     "images/Pasted image 20220925094048.png",
     "images/Pasted image 20220926221218.png",
@@ -192,8 +194,6 @@
     "images/Pasted image 20230729185317.png",
     "Web Development/general reference.md",
     "web frameworks",
-    "For a complete list of commands, check bash-cmd-reference.pdf.md",
-    "unix/pipes-and-filters.md",
     "javascript/frameworks/React",
     "javascript/frameworks",
     "images/Pasted image 20221011204201.png"

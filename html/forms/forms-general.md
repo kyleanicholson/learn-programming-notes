@@ -131,8 +131,6 @@ We also need to let the backend, where we send our data, know what each piece of
 
 The `name` attribute serves as a reference to the data inputted into a form control after submitting it. You can think of it as a variable name for the input. Form input should always have a `name` attribute; otherwise, it will be ignored when the form is submitted.
 
-
-
 ### **The type attribute**
 
 `Email inputs` are specialized text inputs just for email addresses. They are different from text inputs in that they will display a different keyboard which will include the @ symbol on mobile devices to make entering email addresses easier.

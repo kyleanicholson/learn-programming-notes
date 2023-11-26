@@ -1,2 +1,7 @@
 * Every form control must have an associated `<label>` element. The `<label>` element describes the purpose of a form control. The `<label>` text is visually associated with the form control, and read out by screen readers.
 * Use semantic html elements 
+* Ensure users are aware of the expected data format: To make it clear for assistive devices, use the `aria-describedby` attribute on the form control, and an `id` on the error message with the same value, to connect both.
+* To communicate an error or success, you should never rely only on color. For people with red-green color blindness, a green and a red border look almost the same. It's impossible to see if the message is related to an error.
+* You can identify many common issues by filling out your form with different devices. Use only your keyboard, use a screen reader (such as [NVDA](https://www.nvaccess.org/) on Windows or [VoiceOver](https://en.wikipedia.org/wiki/VoiceOver) on Mac), or zoom the page to 200%. 
+* Make sure the difference between focused state and unfocused state is recognizable -- you can override the default focus style with the `:focus` CSS pseudo-class
+* Always test your forms on different platforms, especially devices or settings you don't use every day. Do you know someone using a screen reader, or someone using text enlargement software? Ask them to fill out your form. A
