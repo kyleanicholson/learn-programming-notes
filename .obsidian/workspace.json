@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html/forms/form-controls.md",
+                "file": "snippets/CSS-Enlarge-Form-Text.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/forms/form-controls.md",
+                "file": "snippets/CSS-Enlarge-Form-Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/forms/form-controls.md",
+                "file": "snippets/CSS-Enlarge-Form-Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html/forms/form-controls.md"
+                "file": "snippets/CSS-Enlarge-Form-Text.md"
               }
             }
           }
@@ -168,9 +168,11 @@
   },
   "active": "ba122ae37da89501",
   "lastOpenFiles": [
+    "snippets/CSS - Meyer Reset.md",
+    "snippets/CSS - Basic Table Styling.md",
+    "html/forms/form-controls.md",
     "html/forms/general.md",
     "html/forms/design.md",
-    "html/forms/form-controls.md",
     "snippets/JS - ShowHide-Password.md",
     "javascript/forms.md",
     "html/html-basics.md",
@@ -182,8 +184,6 @@
     "codepens",
     "snippets/JS - Custom Error Messages.md",
     "snippets/HTML - Autocomplete Box.md",
-    "snippets/CSS - Meyer Reset.md",
-    "snippets/CSS - Basic Table Styling.md",
     "git/git-commands.md",
     "git/git-push-to-github.md",
     "git/git-basics.md",
