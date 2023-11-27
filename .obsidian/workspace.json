@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/CSS-Enlarge-Form-Text.md",
+                "file": "snippets/JS - ShowHide-Password.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/CSS-Enlarge-Form-Text.md",
+                "file": "snippets/JS - ShowHide-Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/CSS-Enlarge-Form-Text.md",
+                "file": "snippets/JS - ShowHide-Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/CSS-Enlarge-Form-Text.md"
+                "file": "snippets/JS - ShowHide-Password.md"
               }
             }
           }
@@ -168,8 +168,12 @@
   },
   "active": "ba122ae37da89501",
   "lastOpenFiles": [
-    "snippets/CSS - Meyer Reset.md",
     "snippets/CSS - Basic Table Styling.md",
+    "snippets/CSS- System UI Font Stack.md",
+    "snippets/CSS - Meyer Reset.md",
+    "snippets/HTML - Autocomplete Box.md",
+    "snippets/JS - Custom Error Messages.md",
+    "snippets/CSS-Enlarge-Form-Text.md",
     "html/forms/form-controls.md",
     "html/forms/general.md",
     "html/forms/design.md",
@@ -178,12 +182,9 @@
     "html/html-basics.md",
     "html/forms/validation.md",
     "links.md",
-    "snippets/CSS-Enlarge-Form-Text.md",
     "codepens.md",
     "codepens/web.dev Signup Form.md",
     "codepens",
-    "snippets/JS - Custom Error Messages.md",
-    "snippets/HTML - Autocomplete Box.md",
     "git/git-commands.md",
     "git/git-push-to-github.md",
     "git/git-basics.md",
@@ -194,7 +195,6 @@
     "accessibility/form-accessibility-tips.md",
     "accessibility",
     "css/styling forms.md",
-    "snippets/CSS- System UI Font Stack.md",
     "databases/database-basics.md",
     "databases/SQL.md",
     "html/Forms.md",
