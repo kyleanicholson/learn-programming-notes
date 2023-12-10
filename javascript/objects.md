@@ -76,3 +76,36 @@ this.grade = 8
 
 }
 ```
+
+We can use the [`call()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call) method to copy over properties from one constructor into another constructor.
+```js
+// Initialize a constructor function for a new Hero
+function Hero(name, level) {
+  this.name = name;
+  this.level = level;
+}
+...
+// Add greet method to the Hero prototype
+Hero.prototype.greet = function () {
+  return `${this.name} says hello.`;
+}
+
+...
+// Initialize Warrior constructor
+function Warrior(name, level, weapon) {
+  // Chain constructor with call
+  Hero.call(this, name, level);
+
+  // Add a new property
+  this.weapon = weapon;
+}
+
+// Initialize Healer constructor
+function Healer(name, level, spell) {
+  Hero.call(this, name, level);
+
+  this.spell = spell;
+}
+```
+
+Prototype properties and methods are not automatically linked when you use `call()` to chain constructors. You can use `Object.setPrototypeOf()` to link the properties in the `Hero` constructor to the `Warrior` and `Healer` constructors, making sure to put it before any additional methods.
