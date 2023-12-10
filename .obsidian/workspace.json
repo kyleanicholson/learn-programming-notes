@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/JS - ShowHide-Password.md",
+                "file": "javascript/objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 200
   },
   "right": {
     "id": "d97cf549d3d0a9e6",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/JS - ShowHide-Password.md",
+                "file": "javascript/objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/JS - ShowHide-Password.md",
+                "file": "javascript/objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/JS - ShowHide-Password.md"
+                "file": "javascript/objects.md"
               }
             }
           }
@@ -168,6 +168,19 @@
   },
   "active": "ba122ae37da89501",
   "lastOpenFiles": [
+    "javascript/javascript-basics.md",
+    "javascript/objects.md",
+    "javascript/forms.md",
+    "html/inspecting-html.md",
+    "html/html-basics.md",
+    "css/tables.md",
+    "css/SVGs.md",
+    "css/css-advanced.md",
+    "css/css-basics.md",
+    "accessibility/form-accessibility-tips.md",
+    "css/flexbox.md",
+    "css/grid.md",
+    "snippets/JS - ShowHide-Password.md",
     "snippets/CSS - Basic Table Styling.md",
     "snippets/CSS- System UI Font Stack.md",
     "snippets/CSS - Meyer Reset.md",
@@ -177,27 +190,14 @@
     "html/forms/form-controls.md",
     "html/forms/general.md",
     "html/forms/design.md",
-    "snippets/JS - ShowHide-Password.md",
-    "javascript/forms.md",
-    "html/html-basics.md",
     "html/forms/validation.md",
     "links.md",
     "codepens.md",
     "codepens/web.dev Signup Form.md",
     "codepens",
-    "git/git-commands.md",
-    "git/git-push-to-github.md",
-    "git/git-basics.md",
-    "security/form-security.md",
     "security",
     "html/forms",
-    "html/inspecting-html.md",
-    "accessibility/form-accessibility-tips.md",
     "accessibility",
-    "css/styling forms.md",
-    "databases/database-basics.md",
-    "databases/SQL.md",
-    "html/Forms.md",
     "snippets",
     "databases",
     "html",
