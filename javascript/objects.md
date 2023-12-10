@@ -29,7 +29,7 @@ All objects in JavaScript have a `prototype`. Stated simply, the `prototype` 
 1. Every `prototype` object inherits from `Object.prototype` by default.
 2. An object’s `Object.getPrototypeOf()` value can only be _one_ unique `prototype` object.
 
-It's best to define functions on the prototype of an object, such as (prevents the functions from being duplicated every time a new object is created, which consumes memory):
+It is a common practice in JavaScript to define methods on the prototype for increased efficiency and code readability:
 ```js
 function Student(name, grade) {
 
@@ -48,6 +48,31 @@ console.log(this.name)
 Student.prototype.goToProm = function() {
 
 console.log("Eh.. go to prom?")
+
+}
+```
+
+You can use `Object.create` to create a new object which inherits from an existing prototype. For example:
+```js
+function Student() {
+
+} 
+
+Student.prototype.sayName = function() {
+
+console.log(this.name)
+
+}
+
+
+EighthGrader.prototype = Object.create(Student.prototype)
+
+
+function EighthGrader(name) {
+
+this.name = name
+
+this.grade = 8
 
 }
 ```
