@@ -35,6 +35,7 @@ return place.city.match(regex) || place.state.match(regex); // match function se
 ```
 
 - When you use querySelector to select an element (for example an input), you can use this.value to check the current value of the element. You can then add an event listener to the element to detect when the element changes or a keyboard event takes place to call the function when that event occurs.
+- 
 ```js
   
   const searchInput = document.querySelector(".search");

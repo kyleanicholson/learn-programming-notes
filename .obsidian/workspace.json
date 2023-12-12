@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/JS - Scope Illustration.md",
+                "file": "javascript/objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/JS - Scope Illustration.md",
+                "file": "javascript/objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/JS - Scope Illustration.md",
+                "file": "javascript/objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/JS - Scope Illustration.md"
+                "file": "javascript/objects.md"
               }
             }
           }
@@ -169,11 +169,19 @@
   },
   "active": "53f1a7a0b75a0008",
   "lastOpenFiles": [
-    "javascript/factory functions.md",
+    "javascript/functions.md",
+    "javascript/variables.md",
+    "javascript/frameworks/React/fundamentals.md",
+    "javascript/frameworks/React/getting-started.md",
+    "javascript/frameworks/React/overview.md",
+    "javascript/General Notes.md",
+    "javascript/comments.md",
+    "javascript/javascript-intro.md",
+    "javascript/strict mode.md",
     "snippets/JS - Scope Illustration.md",
+    "javascript/factory functions.md",
     "html/forms/form-controls.md",
     "javascript/objects.md",
-    "javascript/javascript-basics.md",
     "javascript/forms.md",
     "html/inspecting-html.md",
     "html/html-basics.md",
@@ -187,14 +195,6 @@
     "snippets/JS - ShowHide-Password.md",
     "snippets/CSS - Basic Table Styling.md",
     "snippets/CSS- System UI Font Stack.md",
-    "snippets/CSS - Meyer Reset.md",
-    "snippets/HTML - Autocomplete Box.md",
-    "snippets/JS - Custom Error Messages.md",
-    "snippets/CSS-Enlarge-Form-Text.md",
-    "html/forms/general.md",
-    "html/forms/design.md",
-    "html/forms/validation.md",
-    "links.md",
     "codepens",
     "security",
     "html/forms",

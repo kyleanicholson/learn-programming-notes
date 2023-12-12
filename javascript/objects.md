@@ -109,3 +109,94 @@ function Healer(name, level, spell) {
 ```
 
 Prototype properties and methods are not automatically linked when you use `call()` to chain constructors. You can use `Object.setPrototypeOf()` to link the properties in the `Hero` constructor to the `Warrior` and `Healer` constructors, making sure to put it before any additional methods.
+
+
+### Object Shorthand Notation
+
+In 2015, a shortcut to creating objects was added to JavaScript. Say we wanted to make an object with a name, age, and color. We’d write it as the following:
+
+```javascript
+const name = "Bob";
+const age = 28;
+const color = "red";
+
+const thatObject = { name: name, age: age, color: color };
+```
+
+However, now, if we have a variable with the same name as that of the property to which we are assigning it, we can simply write it once!
+
+```javascript
+const nowFancyObject = { name, age, color };
+```
+
+An added advantage to this is that it’s now possible to console.log values neatly!
+
+```javascript
+// If you wanted to log these values, earlier,
+// you would have done the following
+console.log(name, age, color);
+// which would have resulted in a mess - Bob 28 red
+
+// Try wrapping it in some { curly braces } now,
+// which makes it an object!
+console.log({ name, age, color });
+// now it logs as - { name: "Bob", age: 28, color: "red" }
+```
+
+
+### Destructuring
+When you have an object, you can extract a property of an object into a variable of the same name, or any named variable for an array. Take a look at the example below:
+
+```javascript
+const obj = { a: 1, b: 2 };
+const { a, b } = obj;
+// This creates two variables, a and b,
+// which are equivalent to
+// const a = obj.a;
+// const b = obj.b;
+
+const array = [1, 2, 3, 4, 5];
+const [ zerothEle, firstEle ] = array;
+// This creates zerothEle and firstEle, both of which point
+// to the elements in the 0th and 1st indices of the array
+```
+
+
+## Private variables in functions
+
+Notice that the object we return in the factory function does not contain the `reputation` variable itself, nor any copy of its value. Instead, the returned object contains two functions - one that reads the value of the `reputation` variable, and another that increases its value by one. The `reputation` variable is what we call a “private” variable, since we cannot access the variable directly in the object instance - it can only be accessed via the closures we defined.
+
+```javascript
+function createUser (name) {
+  const discordName = "@" + name;
+
+  let reputation = 0;
+  const getReputation = () => reputation;
+  const giveReputation = () => reputation++;
+
+  return { name, discordName, getReputation, giveReputation };
+}
+
+const josh = createUser("josh");
+josh.giveReputation();
+josh.giveReputation();
+
+console.log({
+  discordName: josh.discordName,
+  reputation: josh.getReputation()
+});
+// logs { discordName: "@josh", reputation: 2 }
+```
+
+A private variable or function uses closures to create smaller, dedicated variables and functions within a factory function itself - things that we do not _need_ to return in the object itself. This way we can create neater code, without polluting the returned object with unnecessary variables that we create while creating the object itself.
+
+### Prototypal inheritance with factories
+We can give our objects access to the properties of another in the context of factories (similar to object / prototype inheritance). We need to extend the `User` factory into a `Player` factory that needs to control some more metrics - there are some ways to do that
+```javascript
+function createPlayer (name, level) {
+  const { discordName, getReputation } = createUser(name);
+
+  const increaseLevel = () => level++;
+  return { name, discordName, getReputation, increaseLevel };
+}
+```
