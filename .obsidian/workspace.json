@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/objects.md",
+                "file": "html/forms/form-controls.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/objects.md",
+                "file": "html/forms/form-controls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/objects.md",
+                "file": "html/forms/form-controls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/objects.md"
+                "file": "html/forms/form-controls.md"
               }
             }
           }
@@ -169,19 +169,15 @@
   },
   "active": "53f1a7a0b75a0008",
   "lastOpenFiles": [
-    "javascript/functions.md",
-    "javascript/variables.md",
-    "javascript/frameworks/React/fundamentals.md",
-    "javascript/frameworks/React/getting-started.md",
-    "javascript/frameworks/React/overview.md",
-    "javascript/General Notes.md",
-    "javascript/comments.md",
-    "javascript/javascript-intro.md",
-    "javascript/strict mode.md",
     "snippets/JS - Scope Illustration.md",
-    "javascript/factory functions.md",
-    "html/forms/form-controls.md",
+    "javascript/variables.md",
+    "javascript/strict mode.md",
+    "javascript/javascript-intro.md",
+    "javascript/functions.md",
+    "javascript/frameworks/React/overview.md",
+    "javascript/comments.md",
     "javascript/objects.md",
+    "javascript/javascript-basics.md",
     "javascript/forms.md",
     "html/inspecting-html.md",
     "html/html-basics.md",
@@ -195,6 +191,10 @@
     "snippets/JS - ShowHide-Password.md",
     "snippets/CSS - Basic Table Styling.md",
     "snippets/CSS- System UI Font Stack.md",
+    "snippets/CSS - Meyer Reset.md",
+    "snippets/HTML - Autocomplete Box.md",
+    "snippets/JS - Custom Error Messages.md",
+    "snippets/CSS-Enlarge-Form-Text.md",
     "codepens",
     "security",
     "html/forms",
