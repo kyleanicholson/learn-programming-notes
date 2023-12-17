@@ -224,9 +224,9 @@ If you do not have a stable identifier, you can use the index of the item in the
 
 ## Adding Components
 
-As a React app grows, there are an increasing number of components to manage. Each component encapsulates or abstracts a meaningful task while contributing to the overall project goals.
+As a React app grows, there are an increasing number of components to manage. Each component encapsulates or abstracts a meaningful task or idea while contributing to the overall project goals.
 
-In our example fitness app, for example, we may want to abstract the process of building the exercise list from the App component.
+In our example app, for example, we may want to abstract the process of building the exercise list from the App component.
 
 ```jsx
 import './App.css'
