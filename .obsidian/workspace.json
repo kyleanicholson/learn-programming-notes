@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Modules.md",
+                "file": "javascript/tooling/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Modules.md",
+                "file": "javascript/tooling/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Modules.md",
+                "file": "javascript/tooling/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Modules.md"
+                "file": "javascript/tooling/Untitled.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "817340a06951a6e3",
   "lastOpenFiles": [
-    "javascript/objects.md",
     "javascript/Modules.md",
+    "javascript/tooling/Untitled.md",
+    "javascript/objects.md",
     "javascript/General Notes.md",
     "javascript/tooling/Webpack.md",
     "html/forms/general.md",
@@ -182,7 +183,6 @@
     "html/inspecting-html.md",
     "html/html-basics.md",
     "css/tables.md",
-    "css/SVGs.md",
     "codepens",
     "security",
     "html/forms",
