@@ -1,1 +1,3 @@
 ES6 modules support both named exports (for exporting multiple values) and default exports (for a single value export per module). The article provides examples of how to use these exports and how to import them in other modules.
+
+Advantages of using modules, include code reuse, ease of maintenance, and improved project organization. It also touches on the significance of not polluting the global scope and how ES6 modules facilitate this best practices
