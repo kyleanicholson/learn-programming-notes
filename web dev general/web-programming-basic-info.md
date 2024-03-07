@@ -113,7 +113,7 @@ Websites and web applications are developed with a wide range of programming lan
 
 ## Why are there so many different languages?
 
- The main reason why there are so many different programming languages in web development is that all languages have a specific use case in which they excel -- in other words, they are well suited to certain types of tasks or some unique aspect of a project. Many websites, and especially web applications, incorporate multiple different programming languages, each of which handles the tasks that they are best suited for.
+ The main reason why there are so many different programming languages in web development is that all languages have specific use cases in which they excel -- in other words, they are well suited to certain types of tasks or some unique aspect of a project. Many websites, and especially web applications, incorporate multiple different programming languages, each of which handles the tasks that they are best suited for.
  
  A basic modern website uses HTML and CSS for structuring and styling content and JavaScript to manage the site's behavior and user interactions. You can accomplish a lot using only those three languages. It's possible to build entire applications with them, but eventually an application might become so complex or used on a large enough scale that it will become reasonable to consider modifying parts of the application or adding additional 'layers' which are built using other programming languages. Languages such as Go and Rust have become increasingly popular as faster or more 'performant' alternatives for specific tasks. These languages excel in scenarios where speed, efficiency, and security are important.
 
