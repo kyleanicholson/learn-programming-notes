@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0ac1f69c6d51a0a5",
+        "id": "45552fbf8f24a28e",
         "type": "tabs",
         "children": [
           {
-            "id": "ba122ae37da89501",
+            "id": "817340a06951a6e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/objects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53f1a7a0b75a0008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/frameworks/React/fundamentals.md",
+                "file": "web dev general/web-programming-basic-info.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/frameworks/React/fundamentals.md",
+                "file": "web dev general/web-programming-basic-info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/frameworks/React/fundamentals.md",
+                "file": "web dev general/web-programming-basic-info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/frameworks/React/fundamentals.md"
+                "file": "web dev general/web-programming-basic-info.md"
               }
             }
           }
@@ -167,10 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53f1a7a0b75a0008",
+  "active": "817340a06951a6e3",
   "lastOpenFiles": [
-    "javascript/frameworks/React/getting-started.md",
+    "links.md",
+    "codepens.md",
+    "web frameworks/framework-basics.md",
+    "javascript/objects.md",
     "javascript/frameworks/React/fundamentals.md",
+    "javascript/frameworks/React/getting-started.md",
     "javascript/General Notes.md",
     "javascript/frameworks/React/overview.md",
     "html/forms/form-controls.md",
@@ -180,7 +171,6 @@
     "javascript/javascript-intro.md",
     "javascript/functions.md",
     "javascript/comments.md",
-    "javascript/objects.md",
     "javascript/javascript-basics.md",
     "javascript/forms.md",
     "html/inspecting-html.md",
@@ -192,9 +182,6 @@
     "accessibility/form-accessibility-tips.md",
     "css/flexbox.md",
     "css/grid.md",
-    "snippets/JS - ShowHide-Password.md",
-    "snippets/CSS - Basic Table Styling.md",
-    "snippets/CSS- System UI Font Stack.md",
     "codepens",
     "security",
     "html/forms",
