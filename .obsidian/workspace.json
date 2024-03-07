@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web dev general/web-programming-basic-info.md",
+                "file": "javascript/tooling/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web dev general/web-programming-basic-info.md",
+                "file": "javascript/tooling/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web dev general/web-programming-basic-info.md",
+                "file": "javascript/tooling/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web dev general/web-programming-basic-info.md"
+                "file": "javascript/tooling/Untitled.md"
               }
             }
           }
@@ -156,6 +156,12 @@
   },
   "active": "817340a06951a6e3",
   "lastOpenFiles": [
+    "html/forms/general.md",
+    "javascript/tooling/Untitled.md",
+    "javascript/tooling",
+    "javascript/Untitled.md",
+    "security/form-security.md",
+    "web dev general/web-programming-basic-info.md",
     "links.md",
     "codepens.md",
     "web frameworks/framework-basics.md",
@@ -177,11 +183,6 @@
     "html/html-basics.md",
     "css/tables.md",
     "css/SVGs.md",
-    "css/css-advanced.md",
-    "css/css-basics.md",
-    "accessibility/form-accessibility-tips.md",
-    "css/flexbox.md",
-    "css/grid.md",
     "codepens",
     "security",
     "html/forms",
@@ -198,7 +199,6 @@
     "images/Pasted image 20230729185317.png",
     "web frameworks",
     "javascript/frameworks/React",
-    "javascript/frameworks",
     "images/Pasted image 20221011204201.png"
   ]
 }
