@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/tooling/Webpack.md",
+                "file": "javascript/tooling/Node Package Manager (NPM).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284.5
   },
   "right": {
     "id": "d97cf549d3d0a9e6",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/tooling/Webpack.md",
+                "file": "javascript/tooling/Node Package Manager (NPM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/tooling/Webpack.md",
+                "file": "javascript/tooling/Node Package Manager (NPM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/tooling/Webpack.md"
+                "file": "javascript/tooling/Node Package Manager (NPM).md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "817340a06951a6e3",
   "lastOpenFiles": [
-    "javascript/modules.md",
     "javascript/tooling/Webpack.md",
+    "javascript/modules.md",
     "javascript/tooling/Node Package Manager (NPM).md",
     "javascript/objects.md",
     "javascript/General Notes.md",
