@@ -11,4 +11,3 @@ Uses of NPM:
 - Managing multiple versions of code and dependencies.
 - Simplifying application updates when underlying code changes.
 - Exploring multiple solutions for similar problems and connecting with developers on similar projects.
-- 
