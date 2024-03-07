@@ -1,0 +1,1 @@
+**Webpack and Module Bundlers**: As projects grow in complexity, organizing code into modules becomes beneficial. Webpack is introduced as a tool to bundle multiple files and third-party libraries into fewer files to reduce HTTP requests, improving load times and performance. 

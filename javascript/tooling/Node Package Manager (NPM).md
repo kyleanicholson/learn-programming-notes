@@ -1,0 +1,1 @@
+**npm (Node Package Manager)**: npm is a command-line tool that allows access to a vast repository of plugins, libraries, and tools, critical for modern web development. The lesson explains how to use npm to initiate projects (`npm init`), manage project dependencies through `package.json`, install packages, and understand development dependencies.
