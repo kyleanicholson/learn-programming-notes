@@ -20,3 +20,5 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 // ...
 
 ```
+
+Managing assets (images, fonts, css, etc.): https://webpack.js.org/guides/asset-management/
