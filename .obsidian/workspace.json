@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e0a77404e8b2342",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "817340a06951a6e3",
+  "active": "8e0a77404e8b2342",
   "lastOpenFiles": [
     "javascript/ES6 modules.md",
     "javascript/tooling/Node Package Manager (NPM).md",
