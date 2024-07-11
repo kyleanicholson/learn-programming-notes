@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/tooling/Webpack.md",
+                "file": "snippets/CSS - Meyer Reset.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e0a77404e8b2342",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/tooling/Webpack.md",
+                "file": "snippets/CSS - Meyer Reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/tooling/Webpack.md",
+                "file": "snippets/CSS - Meyer Reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/tooling/Webpack.md"
+                "file": "snippets/CSS - Meyer Reset.md"
               }
             }
           }
@@ -165,20 +154,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e0a77404e8b2342",
+  "active": "dae056cde0c95477",
   "lastOpenFiles": [
+    "snippets/CSS - Basic Table Styling.md",
+    "Files/Pasted image 20230729185317.png",
+    "web dev general/web-programming-basic-info.md",
+    "Templates",
+    "Files",
+    "Reference notes",
+    "Zettelkasten",
+    "web frameworks/framework-basics.md",
+    "codepens.md",
+    "snippets/CSS- System UI Font Stack.md",
+    "snippets/HTML - Autocomplete Box.md",
+    "snippets/CSS - Meyer Reset.md",
+    "security/form-security.md",
+    "javascript/tooling/Webpack.md",
     "javascript/ES6 modules.md",
     "javascript/tooling/Node Package Manager (NPM).md",
-    "javascript/tooling/Webpack.md",
     "javascript/objects.md",
     "javascript/General Notes.md",
     "html/forms/general.md",
     "javascript/tooling",
-    "security/form-security.md",
-    "web dev general/web-programming-basic-info.md",
     "links.md",
-    "codepens.md",
-    "web frameworks/framework-basics.md",
     "javascript/frameworks/React/fundamentals.md",
     "javascript/frameworks/React/getting-started.md",
     "javascript/frameworks/React/overview.md",
@@ -189,27 +187,17 @@
     "javascript/javascript-intro.md",
     "javascript/functions.md",
     "javascript/comments.md",
-    "javascript/javascript-basics.md",
-    "javascript/forms.md",
-    "html/inspecting-html.md",
-    "html/html-basics.md",
-    "css/tables.md",
     "codepens",
     "security",
     "html/forms",
     "accessibility",
     "snippets",
-    "databases",
-    "html",
-    "images/Pasted image 20220925094048.png",
-    "images/Pasted image 20220926221218.png",
-    "images/Pasted image 20220926221528.png",
-    "images/Pasted image 20220926221648.png",
-    "images/Pasted image 20221001183145.png",
-    "images/Pasted image 20230730190435.png",
-    "images/Pasted image 20230729185317.png",
-    "web frameworks",
-    "javascript/frameworks/React",
-    "images/Pasted image 20221011204201.png"
+    "Files/Pasted image 20220925094048.png",
+    "Files/Pasted image 20220926221218.png",
+    "Files/Pasted image 20220926221528.png",
+    "Files/Pasted image 20220926221648.png",
+    "Files/Pasted image 20221001183145.png",
+    "Files/Pasted image 20230730190435.png",
+    "Files/Pasted image 20221011204201.png"
   ]
 }

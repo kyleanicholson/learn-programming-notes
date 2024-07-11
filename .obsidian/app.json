@@ -1,4 +1,7 @@
 {
   "fileSortOrder": "byCreatedTimeReverse",
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "attachmentFolderPath": "Files"
 }
