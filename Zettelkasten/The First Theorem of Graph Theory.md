@@ -10,6 +10,8 @@ Tags: [[Discrete Math]], [[Graphs]]
 *The sum of the degrees of the vertices of a graph equals twice the number of edges. In particular, the sum of the degrees is even*
 
 The *degrees* are the number of edges connected to a vertex. 
+![[Pasted image 20240713123313.png]]
+
 
 ---
 # References
