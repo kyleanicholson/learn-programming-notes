@@ -11,9 +11,11 @@
             "id": "73ec570df9c7eb3d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Files/Pasted image 20230730190435.png"
+                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Pasted image 20230730190435.png",
+                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Pasted image 20230730190435.png",
+                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Pasted image 20230730190435.png"
+                "file": "Zettelkasten/The First Theorem of Graph Theory.md"
               }
             }
           }
@@ -155,8 +157,10 @@
   },
   "active": "73ec570df9c7eb3d",
   "lastOpenFiles": [
-    "Files/Pasted image 20230729185317.png",
+    "Zettelkasten/Seven Bridges of Konigsberg.md",
+    "Zettelkasten/The First Theorem of Graph Theory.md",
     "Files/Pasted image 20230730190435.png",
+    "Files/Pasted image 20230729185317.png",
     "Files/Pasted image 20220925094048.png",
     "Files/Pasted image 20220926221218.png",
     "Files/Pasted image 20220926221528.png",
@@ -166,9 +170,6 @@
     "Files/Math 208 Discrete Mathematics.pdf",
     "Files/Pasted image 20240713114947.png",
     "Files/Pasted image 20240713114958.png",
-    "Files/Pasted image 20240713120949.png",
-    "Zettelkasten/The First Theorem of Graph Theory.md",
-    "Zettelkasten/Seven Bridges of Konigsberg.md",
     "Zettelkasten/What is a graph.md",
     "Zettelkasten/Computer Graph Representations.md",
     "Zettelkasten/Principle of Atomicity.md",

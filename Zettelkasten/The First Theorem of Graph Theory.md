@@ -11,3 +11,5 @@ Tags:
 
 ---
 # References
+
+Math 208: Discrete Mathematics Textbook Chapter 38 
