@@ -6,7 +6,7 @@ Tags: [[Discrete Math]]
 
 # Graphs
 
-Graphs consist of a number of points (called  **vertices** ) together with lines (called **edges**) 
+**Graphs** consist of a number of points (called **vertices** ) together with lines (called **edges**) joining some pairs of vertices. They are 
 
 
 ---
