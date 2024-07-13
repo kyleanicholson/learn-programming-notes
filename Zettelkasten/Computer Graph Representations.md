@@ -2,11 +2,11 @@
 
 Status: #idea
 
-Tags: [[Discrete Math]], [[]]
+Tags: [[Discrete Math]], [[Graphs]]
 
 # Computer Graph Representations
 
-
+Graphs can be represented in computer memory, either as an **adjacency matrix** or an **incidence matrix**. 
 
 
 ---
