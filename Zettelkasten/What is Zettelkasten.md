@@ -8,7 +8,7 @@ Tags: [[Productivity]]
 
 Zettelkasten is a personal tool for thinking and writing which makes a web of thought possible. The structure of information emerges as a result of the relationships between thoughts and ideas, as opposed to setting the structure first and 'organizing' thoughts and ideas into buckets.
 
-_A Zettelkasten makes connecting and not collecting a priority_. Multiple texts and notes are connected via hyperlinks, and  each individual note is called a "Zettel"
+_A Zettelkasten makes connecting and not collecting a priority_. Multiple texts and notes are connected via hyperlinks, and each individual note is called a "Zettel", which is the German word for "paper slip". 
 
 
 
