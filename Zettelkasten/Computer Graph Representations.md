@@ -6,7 +6,8 @@ Tags: [[Discrete Math]], [[Graphs]]
 
 # Computer Graph Representations
 
-Graphs can be represented in computer memory, either as an **adjacency matrix** or an **incidence matrix**. 
+* Graphs can be represented in computer memory, either as an **adjacency matrix** or an **incidence matrix**. 
+* If there are n vertices in the graph G, 
 
 
 ---
