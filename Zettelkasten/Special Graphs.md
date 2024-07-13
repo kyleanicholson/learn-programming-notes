@@ -6,7 +6,9 @@ Tags:
 
 # Special Graphs
 
+Some types of graphs occur frequently and have special names
 
+A **complete graph** 
 
 
 ---
