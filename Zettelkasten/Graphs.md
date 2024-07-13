@@ -14,3 +14,5 @@ The placement of the vertices is not important.
 
 ---
 # References
+
+Chapter 38 Math208DiscreteMath_v3CompleteTexT
