@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Principle of Atomicity.md",
+                "file": "Zettelkasten/What is a graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Principle of Atomicity.md",
+                "file": "Zettelkasten/What is a graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Principle of Atomicity.md",
+                "file": "Zettelkasten/What is a graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Principle of Atomicity.md"
+                "file": "Zettelkasten/What is a graph.md"
               }
             }
           }
@@ -155,13 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73ec570df9c7eb3d",
+  "active": "dae056cde0c95477",
   "lastOpenFiles": [
     "Zettelkasten/What is Zettelkasten.md",
+    "Zettelkasten/What is a graph.md",
     "Zettelkasten/Principle of Atomicity.md",
     "Zettelkasten/Zettelkasten in Obsidian.md",
     "Zettelkasten/Untitled.md",
-    "Zettelkasten/Graphs.md",
     "Files/Math 208 Discrete Mathematics.pdf",
     "Files/Pasted image 20240713110241.png",
     "Templates/Core Zettel Idea.md",
