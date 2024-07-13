@@ -10,7 +10,8 @@ Tags:[[Discrete Math]], [[Graphs]]
 - For two graphs to be isomorphic, they must have the same number of vertices, the same number of edges, and the same degree sequences .
 - Yet, even if two graphs have the same number of vertices and the same number of edges, and degree sequence, they may not be isomorphic. Need to verify with trial and error.
 	![[Pasted image 20240713125715.png]]
-
+	![[Pasted image 20240713131056.png]]
+	Isomorphic
 
 ---
 # References
