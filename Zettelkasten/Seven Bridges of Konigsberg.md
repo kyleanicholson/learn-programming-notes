@@ -6,9 +6,9 @@ Tags:
 
 # Seven Bridges of Konigsberg
 
-Seven bridges, problem was to devise a walk through the city that crosses each bridge once and only once.
-
-Euler proved that the problem has no solution
+- Seven bridges, problem was to devise a walk through the city that crosses each bridge once and only once.
+- Graph problem-- bridges represent edges, and land masses represent vertices.
+- Euler proved that the problem has no solution.
 
 
 
