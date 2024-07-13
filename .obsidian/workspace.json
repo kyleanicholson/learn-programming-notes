@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Zettelkasten in Obsidian.md",
+                "file": "Zettelkasten/What is Zettelkasten.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Zettelkasten in Obsidian.md",
+                "file": "Zettelkasten/What is Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Zettelkasten in Obsidian.md",
+                "file": "Zettelkasten/What is Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Zettelkasten in Obsidian.md"
+                "file": "Zettelkasten/What is Zettelkasten.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "73ec570df9c7eb3d",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/Zettelkasten in Obsidian.md",
+    "Zettelkasten/What is Zettelkasten.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/Graphs.md",
     "Files/Math 208 Discrete Mathematics.pdf",
     "Files/Pasted image 20240713110241.png",
@@ -190,7 +191,6 @@
     "javascript/tooling",
     "links.md",
     "javascript/frameworks/React/fundamentals.md",
-    "javascript/frameworks/React/getting-started.md",
     "codepens",
     "security",
     "html/forms",
