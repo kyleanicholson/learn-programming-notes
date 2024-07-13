@@ -7,7 +7,7 @@ Tags:
 # Principle of Atomicity
 
 
-Each Zettel in Zettelkasten contains only one unit of knowledge, one thought. Individual thoughts are 
+Each Zettel in Zettelkasten contains only one unit of knowledge, one thought. Individual thoughts are the base unit of 
 
 ---
 # References
