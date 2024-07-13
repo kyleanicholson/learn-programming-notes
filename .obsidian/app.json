@@ -3,5 +3,6 @@
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "Zettelkasten",
-  "attachmentFolderPath": "Files"
+  "attachmentFolderPath": "Files",
+  "showInlineTitle": false
 }
