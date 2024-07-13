@@ -2,11 +2,11 @@
 
 Status: #idea
 
-Tags:
+Tags: [[Discrete Math]]
 
 # Graphs
 
-
+Graphs consist of a number of points (called  **vertices** ) together with lines (called **edges**) 
 
 
 ---
