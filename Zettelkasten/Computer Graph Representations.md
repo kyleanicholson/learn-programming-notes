@@ -11,7 +11,7 @@ Tags: [[Discrete Math]], [[Graphs]]
 ![[Pasted image 20240713114958.png]]
 * A_G: each row represents represents u1 to u5 
 	* Row 1 (u1) shows 1's for edges to u2 and u5 
-- 
+- M_G 
 ---
 # References
 Math 208: Discrete Mathematics Textbook Chapter 38 
