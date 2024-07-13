@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:
+Tags: [[Productivity]] 
 
 # What is Zettelkasten
 
