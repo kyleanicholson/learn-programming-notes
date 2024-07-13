@@ -7,7 +7,7 @@ Tags:
 # Principle of Atomicity
 
 
-
+Each Zettel in Zettelkasten contains only one unit of knowledge, one thought 
 
 ---
 # References
