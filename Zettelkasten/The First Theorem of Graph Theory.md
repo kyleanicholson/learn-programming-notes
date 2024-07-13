@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:
+Tags: [[Discrete Math]], [[Graphs]]
 
 # The First Theorem of Graph Theory
 
