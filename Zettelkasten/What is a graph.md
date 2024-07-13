@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags: [[Discrete Math]]
+Tags: [[Discrete Math]], [[Graphs]]
 
 # What is a graph?
 
