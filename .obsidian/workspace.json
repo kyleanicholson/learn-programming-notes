@@ -11,8 +11,12 @@
             "id": "3b59d666f6a1ac63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Special Graphs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Special Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Special Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Special Graphs.md"
+              }
             }
           }
         ]
@@ -150,6 +158,8 @@
   "active": "3b59d666f6a1ac63",
   "lastOpenFiles": [
     "Zettelkasten/The First Theorem of Graph Theory.md",
+    "Zettelkasten/Special Graphs.md",
+    "Files/Pasted image 20240713124026.png",
     "Files/Pasted image 20240713123313.png",
     "Files/Pasted image 20240713123310.png",
     "Zettelkasten/Graphs.md",
@@ -161,7 +171,6 @@
     "Files/Pasted image 20220926221528.png",
     "Files/Pasted image 20220926221648.png",
     "Files/Pasted image 20221001183145.png",
-    "Files/Pasted image 20240713110241.png",
     "Files/Math 208 Discrete Mathematics.pdf",
     "Zettelkasten/What is a graph.md",
     "Zettelkasten/Computer Graph Representations.md",
@@ -188,7 +197,6 @@
     "snippets/HTML - Autocomplete Box.md",
     "security/form-security.md",
     "javascript/tooling/Webpack.md",
-    "javascript/ES6 modules.md",
     "javascript/tooling",
     "codepens",
     "security",
