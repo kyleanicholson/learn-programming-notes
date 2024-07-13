@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Computer Graph Representations.md",
+                "file": "Zettelkasten/Seven Bridges of Konigsberg.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Computer Graph Representations.md",
+                "file": "Zettelkasten/Seven Bridges of Konigsberg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Computer Graph Representations.md",
+                "file": "Zettelkasten/Seven Bridges of Konigsberg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Computer Graph Representations.md"
+                "file": "Zettelkasten/Seven Bridges of Konigsberg.md"
               }
             }
           }
@@ -157,11 +157,13 @@
   },
   "active": "73ec570df9c7eb3d",
   "lastOpenFiles": [
+    "Files/Pasted image 20240713120949.png",
+    "Zettelkasten/Computer Graph Representations.md",
+    "Zettelkasten/Seven Bridges of Konigsberg.md",
     "Files/Pasted image 20240713114958.png",
     "Files/Pasted image 20240713114947.png",
     "Zettelkasten/What is a graph.md",
     "Zettelkasten/Principle of Atomicity.md",
-    "Zettelkasten/Computer Graph Representations.md",
     "Zettelkasten/What is Zettelkasten.md",
     "Zettelkasten/Zettelkasten in Obsidian.md",
     "Zettelkasten/Untitled.md",
@@ -190,7 +192,6 @@
     "javascript/ES6 modules.md",
     "javascript/tooling/Node Package Manager (NPM).md",
     "javascript/objects.md",
-    "javascript/General Notes.md",
     "javascript/tooling",
     "codepens",
     "security",
@@ -201,7 +202,6 @@
     "Files/Pasted image 20220926221528.png",
     "Files/Pasted image 20220926221648.png",
     "Files/Pasted image 20221001183145.png",
-    "Files/Pasted image 20230730190435.png",
-    "Files/Pasted image 20221011204201.png"
+    "Files/Pasted image 20230730190435.png"
   ]
 }
