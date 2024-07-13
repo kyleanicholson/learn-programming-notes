@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Graphs.md",
+                "file": "Zettelkasten/Zettelkasten in Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Graphs.md",
+                "file": "Zettelkasten/Zettelkasten in Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Graphs.md",
+                "file": "Zettelkasten/Zettelkasten in Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Graphs.md"
+                "file": "Zettelkasten/Zettelkasten in Obsidian.md"
               }
             }
           }
@@ -157,11 +157,12 @@
   },
   "active": "73ec570df9c7eb3d",
   "lastOpenFiles": [
-    "Files/Math 208 Discrete Mathematics.pdf",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/Zettelkasten in Obsidian.md",
     "Zettelkasten/Graphs.md",
+    "Files/Math 208 Discrete Mathematics.pdf",
     "Files/Pasted image 20240713110241.png",
     "Templates/Core Zettel Idea.md",
-    "Zettelkasten/Understanding note-taking.md",
     "Zettelkasten/Productivity.md",
     "Zettelkasten/Zettelkasten.md",
     "Templates/MOC.md",
