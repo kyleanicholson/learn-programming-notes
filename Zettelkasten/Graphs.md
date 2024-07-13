@@ -10,5 +10,7 @@ Tags: [[Discrete Math]]
 
 Here is an example of a graph G with vertex set {a, b, c, d, e}
 ![[Pasted image 20240713110241.png]]
+The placement of the vertices is not important.
+
 ---
 # References
