@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Seven Bridges of Konigsberg.md",
+                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Seven Bridges of Konigsberg.md",
+                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Seven Bridges of Konigsberg.md",
+                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Seven Bridges of Konigsberg.md"
+                "file": "Zettelkasten/The First Theorem of Graph Theory.md"
               }
             }
           }
@@ -157,9 +157,11 @@
   },
   "active": "73ec570df9c7eb3d",
   "lastOpenFiles": [
+    "Files/Pasted image 20240713122454.png",
+    "Zettelkasten/Seven Bridges of Konigsberg.md",
+    "Zettelkasten/The First Theorem of Graph Theory.md",
     "Files/Pasted image 20240713121833.png",
     "Zettelkasten/What is a graph.md",
-    "Zettelkasten/Seven Bridges of Konigsberg.md",
     "Files/Pasted image 20240713120949.png",
     "Zettelkasten/Computer Graph Representations.md",
     "Files/Pasted image 20240713114958.png",
@@ -192,7 +194,6 @@
     "javascript/tooling/Webpack.md",
     "javascript/ES6 modules.md",
     "javascript/tooling/Node Package Manager (NPM).md",
-    "javascript/objects.md",
     "javascript/tooling",
     "codepens",
     "security",
@@ -201,7 +202,6 @@
     "Files/Pasted image 20220925094048.png",
     "Files/Pasted image 20220926221218.png",
     "Files/Pasted image 20220926221528.png",
-    "Files/Pasted image 20220926221648.png",
-    "Files/Pasted image 20221001183145.png"
+    "Files/Pasted image 20220926221648.png"
   ]
 }
