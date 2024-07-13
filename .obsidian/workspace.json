@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/What is Zettelkasten.md",
+                "file": "Zettelkasten/Principle of Atomicity.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/What is Zettelkasten.md",
+                "file": "Zettelkasten/Principle of Atomicity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/What is Zettelkasten.md",
+                "file": "Zettelkasten/Principle of Atomicity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/What is Zettelkasten.md"
+                "file": "Zettelkasten/Principle of Atomicity.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "73ec570df9c7eb3d",
   "lastOpenFiles": [
-    "Zettelkasten/Zettelkasten in Obsidian.md",
     "Zettelkasten/What is Zettelkasten.md",
+    "Zettelkasten/Principle of Atomicity.md",
+    "Zettelkasten/Zettelkasten in Obsidian.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Graphs.md",
     "Files/Math 208 Discrete Mathematics.pdf",
@@ -190,7 +191,6 @@
     "html/forms/general.md",
     "javascript/tooling",
     "links.md",
-    "javascript/frameworks/React/fundamentals.md",
     "codepens",
     "security",
     "html/forms",
