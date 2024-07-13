@@ -6,7 +6,9 @@ Tags:
 
 # Seven Bridges of Konigsberg
 
-Seven bridges, 
+Seven bridges, problem was to devise a walk through the city that crosses each bridge once and only once.
+
+Euler proved that the problem has no solution
 
 
 
