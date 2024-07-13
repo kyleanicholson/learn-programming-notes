@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Special Graphs.md",
+                "file": "Zettelkasten/Graph Isomorphisms.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Special Graphs.md",
+                "file": "Zettelkasten/Graph Isomorphisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Special Graphs.md",
+                "file": "Zettelkasten/Graph Isomorphisms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Special Graphs.md"
+                "file": "Zettelkasten/Graph Isomorphisms.md"
               }
             }
           }
@@ -158,7 +158,7 @@
   "active": "3b59d666f6a1ac63",
   "lastOpenFiles": [
     "Zettelkasten/The First Theorem of Graph Theory.md",
-    "Zettelkasten/Special Graphs.md",
+    "Zettelkasten/Graph Isomorphisms.md",
     "Files/Pasted image 20240713124026.png",
     "Files/Pasted image 20240713123313.png",
     "Files/Pasted image 20240713123310.png",
