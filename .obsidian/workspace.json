@@ -23,14 +23,15 @@
             "id": "73ec570df9c7eb3d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "Zettelkasten/Understanding note-taking.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -166,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73ec570df9c7eb3d",
+  "active": "8ed82e7858aa630d",
   "lastOpenFiles": [
     "Zettelkasten/Understanding note-taking.md",
     "Zettelkasten/Productivity.md",
