@@ -15,4 +15,4 @@ The placement of the vertices is not important.
 ---
 # References
 
-Chapter 38 Math 208: Discrete Mathematics
+Math 208: Discrete Mathematics Textbook Chapter 38 
