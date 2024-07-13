@@ -11,7 +11,7 @@ Tags: [[Discrete Math]], [[Graphs]]
 
 The *degrees* are the number of edges connected to a vertex. 
 ![[Pasted image 20240713123313.png]]
-
+u1, u2, and u4 each have degree 2, while deg(u3) and deg(u5) are each 3
 
 ---
 # References
