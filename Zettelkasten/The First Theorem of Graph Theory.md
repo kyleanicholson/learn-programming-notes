@@ -7,7 +7,9 @@ Tags: [[Discrete Math]], [[Graphs]]
 # The First Theorem of Graph Theory
 
 
+*The sum of the degrees of the vertices of a graph equals twice the number of edges. In particular, the sum of the degrees is even*
 
+The *degrees* 
 
 ---
 # References
