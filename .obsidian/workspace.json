@@ -11,11 +11,9 @@
             "id": "73ec570df9c7eb3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Pasted image 20230730190435.png"
               }
             }
           }
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 424.5
   },
   "right": {
     "id": "d97cf549d3d0a9e6",
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
+                "file": "Files/Pasted image 20230730190435.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
+                "file": "Files/Pasted image 20230730190435.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/The First Theorem of Graph Theory.md"
+                "file": "Files/Pasted image 20230730190435.png"
               }
             }
           }
@@ -157,21 +155,26 @@
   },
   "active": "73ec570df9c7eb3d",
   "lastOpenFiles": [
-    "Files/Pasted image 20240713122454.png",
-    "Zettelkasten/Seven Bridges of Konigsberg.md",
-    "Zettelkasten/The First Theorem of Graph Theory.md",
-    "Files/Pasted image 20240713121833.png",
-    "Zettelkasten/What is a graph.md",
-    "Files/Pasted image 20240713120949.png",
-    "Zettelkasten/Computer Graph Representations.md",
-    "Files/Pasted image 20240713114958.png",
+    "Files/Pasted image 20230729185317.png",
+    "Files/Pasted image 20230730190435.png",
+    "Files/Pasted image 20220925094048.png",
+    "Files/Pasted image 20220926221218.png",
+    "Files/Pasted image 20220926221528.png",
+    "Files/Pasted image 20220926221648.png",
+    "Files/Pasted image 20221001183145.png",
+    "Files/Pasted image 20240713110241.png",
+    "Files/Math 208 Discrete Mathematics.pdf",
     "Files/Pasted image 20240713114947.png",
+    "Files/Pasted image 20240713114958.png",
+    "Files/Pasted image 20240713120949.png",
+    "Zettelkasten/The First Theorem of Graph Theory.md",
+    "Zettelkasten/Seven Bridges of Konigsberg.md",
+    "Zettelkasten/What is a graph.md",
+    "Zettelkasten/Computer Graph Representations.md",
     "Zettelkasten/Principle of Atomicity.md",
     "Zettelkasten/What is Zettelkasten.md",
     "Zettelkasten/Zettelkasten in Obsidian.md",
     "Zettelkasten/Untitled.md",
-    "Files/Math 208 Discrete Mathematics.pdf",
-    "Files/Pasted image 20240713110241.png",
     "Templates/Core Zettel Idea.md",
     "Zettelkasten/Productivity.md",
     "Zettelkasten/Zettelkasten.md",
@@ -180,7 +183,6 @@
     "Zettelkasten/Testing123.md",
     "snippets/CSS - Meyer Reset.md",
     "snippets/CSS - Basic Table Styling.md",
-    "Files/Pasted image 20230729185317.png",
     "web dev general/web-programming-basic-info.md",
     "Templates",
     "Files",
@@ -198,10 +200,6 @@
     "codepens",
     "security",
     "html/forms",
-    "accessibility",
-    "Files/Pasted image 20220925094048.png",
-    "Files/Pasted image 20220926221218.png",
-    "Files/Pasted image 20220926221528.png",
-    "Files/Pasted image 20220926221648.png"
+    "accessibility"
   ]
 }
