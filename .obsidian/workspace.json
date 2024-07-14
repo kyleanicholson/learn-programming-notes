@@ -155,11 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dae056cde0c95477",
+  "active": "3b59d666f6a1ac63",
   "lastOpenFiles": [
+    "Zettelkasten/url re_path.md",
+    "Reference Notes/Understand Django.md",
     "Templates/MOC.md",
     "Templates/Reference Note.md",
-    "Reference Notes/Understand Django.md",
     "Zettelkasten/Graph Isomorphisms.md",
     "Files/Pasted image 20240713131056.png",
     "Files/Pasted image 20240713125715.png",
@@ -197,7 +198,6 @@
     "codepens.md",
     "snippets/CSS- System UI Font Stack.md",
     "snippets/HTML - Autocomplete Box.md",
-    "security/form-security.md",
     "javascript/tooling",
     "codepens",
     "security",

@@ -19,4 +19,4 @@ re_path(
 ---
 # References
 
-https://www.mattlayman.com/understand-django/urls-lead-way/
+[[Understand Django]]
