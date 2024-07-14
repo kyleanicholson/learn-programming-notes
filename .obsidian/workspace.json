@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Reference Note.md",
+                "file": "Reference Notes/Understand Django.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Reference Note.md",
+                "file": "Reference Notes/Understand Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Reference Note.md",
+                "file": "Reference Notes/Understand Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Reference Note.md"
+                "file": "Reference Notes/Understand Django.md"
               }
             }
           }
@@ -155,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b59d666f6a1ac63",
+  "active": "dae056cde0c95477",
   "lastOpenFiles": [
+    "Templates/MOC.md",
+    "Templates/Reference Note.md",
+    "Reference Notes/Understand Django.md",
     "Zettelkasten/Graph Isomorphisms.md",
     "Files/Pasted image 20240713131056.png",
     "Files/Pasted image 20240713125715.png",
@@ -181,7 +184,6 @@
     "Templates/Core Zettel Idea.md",
     "Zettelkasten/Productivity.md",
     "Zettelkasten/Zettelkasten.md",
-    "Templates/MOC.md",
     "Zettelkasten/Test.md",
     "Zettelkasten/Testing123.md",
     "snippets/CSS - Meyer Reset.md",
@@ -196,7 +198,6 @@
     "snippets/CSS- System UI Font Stack.md",
     "snippets/HTML - Autocomplete Box.md",
     "security/form-security.md",
-    "javascript/tooling/Webpack.md",
     "javascript/tooling",
     "codepens",
     "security",
