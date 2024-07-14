@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:
+Tags: [[Zettelkasten]], [[Productivity]]
 
 # Principle of Atomicity
 
