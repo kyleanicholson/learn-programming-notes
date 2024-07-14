@@ -7,6 +7,14 @@ Reference Type: Online Tutorial
 
 ## [URLs Lead The Way](https://www.mattlayman.com/understand-django/urls-lead-way/)
 
+- Make a URL configuration by making a module with a list of `urlpatterns`.
+- Create URLs with `path` and `re_path`.
+- Use converters to extract information for views.
+- Use regular expressions to express more complex URL data.
+- Group related URLs together with `include`.
+- Refer to a URL by its `name`.
+- Put related names together in a namespace.
+
 ## [Views On Views](https://www.mattlayman.com/understand-django/views-on-views/)
 ## [Templates For User Interfaces](https://www.mattlayman.com/understand-django/templates-user-interfaces/)
 ##  [User Interaction With Forms](https://www.mattlayman.com/understand-django/user-interaction-forms/)
