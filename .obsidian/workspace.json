@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
+                "file": "Zettelkasten/Paths and Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
+                "file": "Zettelkasten/Paths and Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
+                "file": "Zettelkasten/Paths and Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/The First Theorem of Graph Theory.md"
+                "file": "Zettelkasten/Paths and Circuits.md"
               }
             }
           }
@@ -157,11 +157,12 @@
   },
   "active": "3a7d37cb890782b8",
   "lastOpenFiles": [
+    "Zettelkasten/The First Theorem of Graph Theory.md",
+    "Zettelkasten/Paths and Circuits.md",
     "Zettelkasten/Computer Graph Representations.md",
     "Zettelkasten/Graph Isomorphisms.md",
     "Zettelkasten/Seven Bridges of Konigsberg.md",
     "Zettelkasten/Principle of Atomicity.md",
-    "Zettelkasten/The First Theorem of Graph Theory.md",
     "Zettelkasten/What is Zettelkasten.md",
     "Zettelkasten/What is a graph.md",
     "Zettelkasten/Graphs.md",
@@ -197,7 +198,6 @@
     "web frameworks/framework-basics.md",
     "codepens.md",
     "snippets/CSS- System UI Font Stack.md",
-    "snippets/HTML - Autocomplete Box.md",
     "javascript/tooling",
     "codepens",
     "security",
