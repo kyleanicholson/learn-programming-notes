@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Graph Isomorphisms.md",
+                "file": "Templates/Reference Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 312.5
   },
   "right": {
     "id": "d97cf549d3d0a9e6",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Graph Isomorphisms.md",
+                "file": "Templates/Reference Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Graph Isomorphisms.md",
+                "file": "Templates/Reference Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Graph Isomorphisms.md"
+                "file": "Templates/Reference Note.md"
               }
             }
           }
@@ -157,11 +157,11 @@
   },
   "active": "3b59d666f6a1ac63",
   "lastOpenFiles": [
+    "Zettelkasten/Graph Isomorphisms.md",
     "Files/Pasted image 20240713131056.png",
     "Files/Pasted image 20240713125715.png",
     "Files/Pasted image 20240713125711.png",
     "Zettelkasten/The First Theorem of Graph Theory.md",
-    "Zettelkasten/Graph Isomorphisms.md",
     "Files/Pasted image 20240713124026.png",
     "Files/Pasted image 20240713123313.png",
     "Files/Pasted image 20240713123310.png",
@@ -171,7 +171,6 @@
     "Files/Pasted image 20230729185317.png",
     "Files/Pasted image 20220925094048.png",
     "Files/Pasted image 20220926221218.png",
-    "Files/Pasted image 20220926221528.png",
     "Files/Math 208 Discrete Mathematics.pdf",
     "Zettelkasten/What is a graph.md",
     "Zettelkasten/Computer Graph Representations.md",
