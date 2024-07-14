@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:
+Tags: [[Discrete Math]] [[Graph Theory]]
 
 # Seven Bridges of Konigsberg
 

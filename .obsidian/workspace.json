@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "217dd89443699663",
+        "id": "cca63ccbb63438a6",
         "type": "tabs",
         "children": [
           {
-            "id": "3b59d666f6a1ac63",
+            "id": "3a7d37cb890782b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/What is a graph.md",
+                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 350.5
   },
   "right": {
     "id": "d97cf549d3d0a9e6",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/What is a graph.md",
+                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/What is a graph.md",
+                "file": "Zettelkasten/The First Theorem of Graph Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/What is a graph.md"
+                "file": "Zettelkasten/The First Theorem of Graph Theory.md"
               }
             }
           }
@@ -155,11 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b59d666f6a1ac63",
+  "active": "3a7d37cb890782b8",
   "lastOpenFiles": [
     "Zettelkasten/Computer Graph Representations.md",
     "Zettelkasten/Graph Isomorphisms.md",
+    "Zettelkasten/Seven Bridges of Konigsberg.md",
     "Zettelkasten/Principle of Atomicity.md",
+    "Zettelkasten/The First Theorem of Graph Theory.md",
+    "Zettelkasten/What is Zettelkasten.md",
+    "Zettelkasten/What is a graph.md",
+    "Zettelkasten/Graphs.md",
+    "Zettelkasten/Zettelkasten in Obsidian.md",
     "Reference Notes/Understand Django.md",
     "Zettelkasten/url re_path.md",
     "Templates/MOC.md",
@@ -167,20 +173,14 @@
     "Files/Pasted image 20240713131056.png",
     "Files/Pasted image 20240713125715.png",
     "Files/Pasted image 20240713125711.png",
-    "Zettelkasten/The First Theorem of Graph Theory.md",
     "Files/Pasted image 20240713124026.png",
     "Files/Pasted image 20240713123313.png",
     "Files/Pasted image 20240713123310.png",
-    "Zettelkasten/Graphs.md",
-    "Zettelkasten/Seven Bridges of Konigsberg.md",
     "Files/Pasted image 20230730190435.png",
     "Files/Pasted image 20230729185317.png",
     "Files/Pasted image 20220925094048.png",
     "Files/Pasted image 20220926221218.png",
     "Files/Math 208 Discrete Mathematics.pdf",
-    "Zettelkasten/What is a graph.md",
-    "Zettelkasten/What is Zettelkasten.md",
-    "Zettelkasten/Zettelkasten in Obsidian.md",
     "Zettelkasten/Untitled.md",
     "Templates/Core Zettel Idea.md",
     "Zettelkasten/Productivity.md",
