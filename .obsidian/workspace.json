@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "217dd89443699663",
+        "id": "70731d73d86cd2f1",
         "type": "tabs",
         "children": [
           {
-            "id": "3b59d666f6a1ac63",
+            "id": "1a66fcffcfd56a65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b59d666f6a1ac63",
+  "active": "1a66fcffcfd56a65",
   "lastOpenFiles": [
-    "Zettelkasten/Hamiltonian Circuits.md",
     "conflict-files-obsidian-git.md",
+    "Zettelkasten/Hamiltonian Circuits.md",
     "Zettelkasten/Graph Isomorphisms.md",
     "Zettelkasten/url re_path.md",
     "Zettelkasten/url name and reverse().md",
