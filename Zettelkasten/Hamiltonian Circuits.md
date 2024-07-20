@@ -2,11 +2,13 @@
 
 Status: #idea
 
-Tags:
+Tags: [[Discrete Math]][[Graph Theory]]
 
 # Hamiltonian Circuits
 
+A Hamiltonian Circuit is a cycle in a graph that visits every vertex exactly once, without repetition, and ends where it starts. 
 
+Checking if a graph has a Hamiltonian circuit 
 
 
 ---
