@@ -8,7 +8,8 @@ Tags: [[Data Structures]] [[Algorithms]] [[C++]]
 
 ```c++
 Void changeLength(struct rectangle *p , int l) { 
-p -> length = l; } 
+p -> length = l; 
+} 
 
 int main() { 
 struct rectangle r = {10,5}; 
