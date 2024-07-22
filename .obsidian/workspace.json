@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "70731d73d86cd2f1",
+        "id": "cca63ccbb63438a6",
         "type": "tabs",
         "children": [
           {
-            "id": "1a66fcffcfd56a65",
+            "id": "3a7d37cb890782b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Hamiltonian Circuits.md",
+                "file": "Zettelkasten/Call by Value.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "16c3b4d0ddaadabc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73e61fbd10655beb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/StructAsParameter-19.pdf"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -59,6 +82,14 @@
             }
           },
           {
+            "id": "a3070f5c6f6e7ea4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
             "id": "60139795fec76074",
             "type": "leaf",
             "state": {
@@ -70,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 350.5
   },
   "right": {
     "id": "d97cf549d3d0a9e6",
@@ -86,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Hamiltonian Circuits.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Hamiltonian Circuits.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Hamiltonian Circuits.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,45 +178,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a66fcffcfd56a65",
+  "active": "16c3b4d0ddaadabc",
   "lastOpenFiles": [
+    "Zettelkasten/Call by Value.md",
     "conflict-files-obsidian-git.md",
+    "Files/StructAsParameter-19.pdf",
     "Zettelkasten/Hamiltonian Circuits.md",
-    "Zettelkasten/Graph Isomorphisms.md",
-    "Zettelkasten/url re_path.md",
-    "Zettelkasten/url name and reverse().md",
-    "Zettelkasten/url include.md",
-    "Zettelkasten/app_name.md",
-    "Zettelkasten/Views.md",
+    "Zettelkasten/Computer Graph Representations.md",
     "Zettelkasten/Paths and Circuits.md",
-    "Templates/Reference Note.md",
-    "Reference notes/Understand Django.md",
-    "Reference notes/Discrete Math MTH208.md",
+    "Reference Notes/Discrete Math MTH208.md",
+    "Zettelkasten/The First Theorem of Graph Theory.md",
+    "Zettelkasten/Graph Isomorphisms.md",
+    "Zettelkasten/Seven Bridges of Konigsberg.md",
+    "Zettelkasten/Principle of Atomicity.md",
+    "Zettelkasten/What is Zettelkasten.md",
     "Zettelkasten/What is a graph.md",
+    "Zettelkasten/Graphs.md",
     "Zettelkasten/Zettelkasten in Obsidian.md",
+    "Reference Notes/Understand Django.md",
+    "Zettelkasten/url re_path.md",
+    "Templates/MOC.md",
+    "Templates/Reference Note.md",
     "Files/Pasted image 20240713131056.png",
     "Files/Pasted image 20240713125715.png",
     "Files/Pasted image 20240713125711.png",
-    "Zettelkasten/The First Theorem of Graph Theory.md",
     "Files/Pasted image 20240713124026.png",
     "Files/Pasted image 20240713123313.png",
     "Files/Pasted image 20240713123310.png",
-    "Zettelkasten/Graphs.md",
-    "Zettelkasten/Seven Bridges of Konigsberg.md",
     "Files/Pasted image 20230730190435.png",
     "Files/Pasted image 20230729185317.png",
     "Files/Pasted image 20220925094048.png",
     "Files/Pasted image 20220926221218.png",
     "Files/Math 208 Discrete Mathematics.pdf",
-    "Zettelkasten/Computer Graph Representations.md",
-    "Zettelkasten/Principle of Atomicity.md",
-    "Zettelkasten/What is Zettelkasten.md",
     "Zettelkasten/Untitled.md",
     "Templates/Core Zettel Idea.md",
     "Zettelkasten/Productivity.md",
     "Zettelkasten/Zettelkasten.md",
-    "Templates/MOC.md",
     "Zettelkasten/Test.md",
+    "Zettelkasten/Testing123.md",
+    "snippets/CSS - Meyer Reset.md",
     "Templates",
     "Files",
     "Reference notes",
@@ -193,7 +224,6 @@
     "javascript/tooling",
     "codepens",
     "security",
-    "html/forms",
-    "accessibility"
+    "html/forms"
   ]
 }
