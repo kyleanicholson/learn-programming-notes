@@ -13,7 +13,11 @@ private:
 	int length;
 	int breadth;
 public:
-	Rectangle(int l, int 
+	Rectangle(int l, int b )
+	//Constructor takes the name of the class
+		length = l;
+		breadth = b; 
+	
 }
 ```
 
