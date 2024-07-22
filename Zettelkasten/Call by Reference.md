@@ -6,7 +6,9 @@ Tags: [[Data Structures]][[Algorithms]]
 
 # Call by Reference
 
-Call by Reference typically refers to passing a reference (which is often an alias for an alias for an actual variable) directly to a function. Call by Reference is available in C++ and is generally considered safer than  [[Call by Address]] since references cannot be nu
+Call by Reference typically refers to passing a reference (which is often an alias for an alias for an actual variable) directly to a function. 
+
+Call by Reference is available in C++ and is generally considered safer than  [[Call by Address]] since references cannot be null and don't require explicit dereferencing.
 ```c++
 int area(struct rectangle &r1) 
 { return r1.length*r1.breath; 
@@ -17,7 +19,6 @@ int main() {
 	printf("% d", area(r)); 
 	}
 ```
-
 
 
 ---
