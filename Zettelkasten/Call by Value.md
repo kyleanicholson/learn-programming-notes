@@ -20,3 +20,4 @@ struct rectangle r = {10,5}; printf("% d", area(r)); }
 
 ---
 # References
+[[StructAsParameter-19.pdf]]
