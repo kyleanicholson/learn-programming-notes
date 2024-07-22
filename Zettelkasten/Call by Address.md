@@ -2,11 +2,19 @@
 
 Status: #idea
 
-Tags: [[Da]]
+Tags: [[Data Structures]] [[Algorithms]] [[C++]]
 
 # Call by Address
 
+```c++
+Void changeLength(struct rectangle *p , int l) { 
+p -> length = l; } 
 
+int main() { 
+struct rectangle r = {10,5}; 
+ChangeLength(&r, 20); }
+
+```
 
 
 ---
