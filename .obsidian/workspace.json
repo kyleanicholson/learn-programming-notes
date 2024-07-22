@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "de96499ae3ad13cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Call by Reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "73e61fbd10655beb",
             "type": "leaf",
             "state": {
@@ -30,6 +42,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Call by Value.md",
+                "file": "Zettelkasten/Call by Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Call by Value.md",
+                "file": "Zettelkasten/Call by Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Call by Value.md"
+                "file": "Zettelkasten/Call by Reference.md"
               }
             }
           }
@@ -165,9 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a7d37cb890782b8",
+  "active": "de96499ae3ad13cb",
   "lastOpenFiles": [
     "Files/StructAsParameter-19.pdf",
+    "Zettelkasten/Call by Reference.md",
     "Zettelkasten/Call by Value.md",
     "conflict-files-obsidian-git.md",
     "Zettelkasten/Hamiltonian Circuits.md",
@@ -203,7 +217,6 @@
     "Zettelkasten/Zettelkasten.md",
     "Zettelkasten/Test.md",
     "Zettelkasten/Testing123.md",
-    "snippets/CSS - Meyer Reset.md",
     "Templates",
     "Files",
     "Reference notes",
