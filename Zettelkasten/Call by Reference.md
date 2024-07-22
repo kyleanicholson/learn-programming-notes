@@ -6,7 +6,7 @@ Tags: [[Data Structures]][[Algorithms]]
 
 # Call by Reference
 
- 
+ Using call by reference, the structure that is passed to the function is modified by the function - the parameters themselves are modified instead of a copy being modified.
 ```c++
 int area(struct rectangle &r1) 
 { return r1.length*r1.breath; 
