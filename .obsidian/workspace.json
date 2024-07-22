@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Call by Reference.md",
+                "file": "Files/StructAsParameter-19.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Call by Reference.md",
+                "file": "Files/StructAsParameter-19.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Call by Reference.md"
+                "file": "Files/StructAsParameter-19.pdf"
               }
             }
           }
@@ -178,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de96499ae3ad13cb",
+  "active": "73e61fbd10655beb",
   "lastOpenFiles": [
-    "Files/StructAsParameter-19.pdf",
     "Zettelkasten/Call by Reference.md",
+    "Files/StructAsParameter-19.pdf",
     "Zettelkasten/Call by Value.md",
     "conflict-files-obsidian-git.md",
     "Zettelkasten/Hamiltonian Circuits.md",
