@@ -6,6 +6,8 @@ Tags: [[Data Structures]] [[Algorithms]] [[C++]]
 
 # Call by Address
 
+Call by address involves passing the address (memory address) of a v
+
 ```c++
 Void changeLength(struct rectangle *p , int l) { 
 p -> length = l; 
