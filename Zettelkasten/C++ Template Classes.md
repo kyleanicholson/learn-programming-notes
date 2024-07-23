@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:
+Tags: [[C++]] [[Object-Oriented Programming]]
 
 # C++ Template Classes
 

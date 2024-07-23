@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/C++ Template Classes.md",
+                "file": "Zettelkasten/url name and reverse().md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/C++ Template Classes.md",
+                "file": "Zettelkasten/url name and reverse().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/C++ Template Classes.md",
+                "file": "Zettelkasten/url name and reverse().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/C++ Template Classes.md"
+                "file": "Zettelkasten/url name and reverse().md"
               }
             }
           }
@@ -157,9 +157,10 @@
   },
   "active": "3a7d37cb890782b8",
   "lastOpenFiles": [
-    "Zettelkasten/Call by Value.md",
+    "Zettelkasten/app_name.md",
     "Zettelkasten/C++ Template Classes.md",
     "Zettelkasten/C++ Constructor.md",
+    "Zettelkasten/Call by Value.md",
     "Files/StructAsParameter-19.pdf",
     "Zettelkasten/Call by Address.md",
     "Zettelkasten/Call by Reference.md",
@@ -194,7 +195,6 @@
     "Zettelkasten/Untitled.md",
     "Templates/Core Zettel Idea.md",
     "Zettelkasten/Productivity.md",
-    "Zettelkasten/Zettelkasten.md",
     "Templates",
     "Files",
     "Reference notes",
