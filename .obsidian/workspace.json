@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Call by Value.md",
+                "file": "Zettelkasten/C++ Template Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Call by Value.md",
+                "file": "Zettelkasten/C++ Template Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Call by Value.md",
+                "file": "Zettelkasten/C++ Template Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Call by Value.md"
+                "file": "Zettelkasten/C++ Template Classes.md"
               }
             }
           }
@@ -157,10 +157,11 @@
   },
   "active": "3a7d37cb890782b8",
   "lastOpenFiles": [
+    "Zettelkasten/Call by Value.md",
+    "Zettelkasten/C++ Template Classes.md",
     "Zettelkasten/C++ Constructor.md",
     "Files/StructAsParameter-19.pdf",
     "Zettelkasten/Call by Address.md",
-    "Zettelkasten/Call by Value.md",
     "Zettelkasten/Call by Reference.md",
     "conflict-files-obsidian-git.md",
     "Zettelkasten/Hamiltonian Circuits.md",
