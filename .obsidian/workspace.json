@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/What is a data structure?.md",
+                "file": "Reference Notes/Abdul Bhari DSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/What is a data structure?.md",
+                "file": "Reference Notes/Abdul Bhari DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/What is a data structure?.md",
+                "file": "Reference Notes/Abdul Bhari DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/What is a data structure?.md"
+                "file": "Reference Notes/Abdul Bhari DSA.md"
               }
             }
           }
@@ -155,10 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dae056cde0c95477",
+  "active": "3a7d37cb890782b8",
   "lastOpenFiles": [
-    "Reference Notes/Abdul Bhari DSA.md",
     "Reference Notes/Discrete Math MTH208.md",
+    "Reference Notes/Abdul Bhari DSA.md",
     "Zettelkasten/What is a data structure?.md",
     "Zettelkasten/app_name.md",
     "Zettelkasten/url name and reverse().md",
