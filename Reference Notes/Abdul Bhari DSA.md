@@ -6,4 +6,6 @@ Reference Type: Course
 
 ## Introduction
 
-- Data Structures are 
+- Data Structure: Arrangement of collection of data items so that operations on that data can be done efficiently.
+- Where do data structures live? 
+	- Main memory
