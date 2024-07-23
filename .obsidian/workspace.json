@@ -13,29 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/C++ Constructor.md",
+                "file": "Zettelkasten/Call by Value.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "de96499ae3ad13cb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/StructAsParameter-19.pdf"
-              }
-            }
-          },
-          {
-            "id": "73e61fbd10655beb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/StructAsParameter-19.pdf"
               }
             }
           }
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/C++ Constructor.md",
+                "file": "Zettelkasten/Call by Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/C++ Constructor.md",
+                "file": "Zettelkasten/Call by Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/C++ Constructor.md"
+                "file": "Zettelkasten/Call by Value.md"
               }
             }
           }
@@ -177,11 +157,11 @@
   },
   "active": "3a7d37cb890782b8",
   "lastOpenFiles": [
-    "Zettelkasten/Call by Address.md",
     "Zettelkasten/C++ Constructor.md",
+    "Files/StructAsParameter-19.pdf",
+    "Zettelkasten/Call by Address.md",
     "Zettelkasten/Call by Value.md",
     "Zettelkasten/Call by Reference.md",
-    "Files/StructAsParameter-19.pdf",
     "conflict-files-obsidian-git.md",
     "Zettelkasten/Hamiltonian Circuits.md",
     "Zettelkasten/Computer Graph Representations.md",
@@ -214,7 +194,6 @@
     "Templates/Core Zettel Idea.md",
     "Zettelkasten/Productivity.md",
     "Zettelkasten/Zettelkasten.md",
-    "Zettelkasten/Test.md",
     "Templates",
     "Files",
     "Reference notes",
