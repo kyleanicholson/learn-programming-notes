@@ -32,3 +32,4 @@ reverse("schools:index") == "/schools/"
 
 ---
 # References
+https://www.mattlayman.com/understand-django/urls-lead-way/

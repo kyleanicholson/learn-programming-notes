@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/url name and reverse().md",
+                "file": "Zettelkasten/app_name.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/url name and reverse().md",
+                "file": "Zettelkasten/app_name.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/url name and reverse().md",
+                "file": "Zettelkasten/app_name.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/url name and reverse().md"
+                "file": "Zettelkasten/app_name.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "3a7d37cb890782b8",
   "lastOpenFiles": [
+    "Zettelkasten/url name and reverse().md",
     "Zettelkasten/app_name.md",
     "Zettelkasten/C++ Template Classes.md",
     "Zettelkasten/C++ Constructor.md",
@@ -194,7 +195,6 @@
     "Files/Math 208 Discrete Mathematics.pdf",
     "Zettelkasten/Untitled.md",
     "Templates/Core Zettel Idea.md",
-    "Zettelkasten/Productivity.md",
     "Templates",
     "Files",
     "Reference notes",
