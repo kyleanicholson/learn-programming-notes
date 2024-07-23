@@ -9,4 +9,5 @@ Reference Type: Course
 - Data Structure: Arrangement of collection of data items so that operations on that data can be done efficiently.
 - Where do data structures live? 
 	- Main memory (RAM)
-- When a program (stored on HD) is run, it is brought into main m
+- When a program (stored on HD) is run, it is brought into main memory. Then the CPU executes that program. 
+- Data is also brought into the main memory (for example a MS Word document) -- cannot be processed when in the hard drive.
