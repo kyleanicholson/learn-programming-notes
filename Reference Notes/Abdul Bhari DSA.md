@@ -9,3 +9,4 @@ Reference Type: Course
 - Data Structure: Arrangement of collection of data items so that operations on that data can be done efficiently.
 - Where do data structures live? 
 	- Main memory (RAM)
+- When a program (stored on HD) is run, it is brought into main m
