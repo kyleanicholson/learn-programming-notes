@@ -14,4 +14,7 @@ Reference Type: Course
 - Data is also brought into the main memory (for example a MS Word document) -- cannot be processed when in the hard drive.
 - **Database**: Storage for large amounts of data that is organized in tables (often relational tables) on the hard drive. 
 	- Application programs access the database, which is pulled into main memory by applications and stored in the form of data structures.
--**Data Warehouse**: Very large sized data that may not be used daily - historical data -- can be accessed as required. Often stored across multiple hard drives.
+-**Data Warehouse**: Very large sized "big data" that may not be used daily - historical data -- can be accessed as required. Often stored across multiple hard drives.
+
+## 40. Stack vs Heap Memory
+
