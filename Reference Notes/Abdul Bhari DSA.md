@@ -12,4 +12,5 @@ Reference Type: Course
 	- Applications can use data structures for arranging their data.
 - When a program (stored on HD) is run, it is brought into main memory. Then the CPU executes that program. 
 - Data is also brought into the main memory (for example a MS Word document) -- cannot be processed when in the hard drive.
-- **Database**: Storage for large amounts of data that is stored 
+- **Database**: Storage for large amounts of data that is organized in tables (often relational tables) on the hard drive. 
+	- Application programs access the database, which is then pulled 
