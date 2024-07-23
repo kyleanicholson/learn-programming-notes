@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/app_name.md",
+                "file": "Zettelkasten/What is a data structure?.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/app_name.md",
+                "file": "Zettelkasten/What is a data structure?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/app_name.md",
+                "file": "Zettelkasten/What is a data structure?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/app_name.md"
+                "file": "Zettelkasten/What is a data structure?.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "3a7d37cb890782b8",
   "lastOpenFiles": [
-    "Zettelkasten/url name and reverse().md",
     "Zettelkasten/app_name.md",
+    "Zettelkasten/What is a data structure?.md",
+    "Zettelkasten/url name and reverse().md",
     "Zettelkasten/C++ Template Classes.md",
     "Zettelkasten/C++ Constructor.md",
     "Zettelkasten/Call by Value.md",
@@ -194,7 +195,6 @@
     "Files/Pasted image 20220926221218.png",
     "Files/Math 208 Discrete Mathematics.pdf",
     "Zettelkasten/Untitled.md",
-    "Templates/Core Zettel Idea.md",
     "Templates",
     "Files",
     "Reference notes",
