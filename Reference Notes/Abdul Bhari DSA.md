@@ -30,3 +30,5 @@ Reference Type: Course
 	- This memory is known as the 'stack frame' or 'activation record' of the function
 
 ## 41. Stack vs Heap contd.
+
+- When functions are called, activation records are allocated in the stack. The active function is at the topmost layer of the stack.
