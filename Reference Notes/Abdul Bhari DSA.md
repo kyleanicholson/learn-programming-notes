@@ -33,6 +33,7 @@ Reference Type: Course
 
 - When functions are called, activation records are allocated in the stack. The active function is at the topmost layer of the stack.
 - When the function has finished executing its last statement, that function's activation record is removed from the stack.
-- Stack memory behaves like a 'stack' of functions -- it is organized memory'
+- Stack memory behaves like a 'stack' of functions -- it is 'organized memory'
 
-- Heap refers to unorganized memory. 
+- Heap refers to unorganized memory - must be treated like a resource -- when required you use the memory, when not required you must release (free) the memory.
+- Programs cannot directly access heap memory
