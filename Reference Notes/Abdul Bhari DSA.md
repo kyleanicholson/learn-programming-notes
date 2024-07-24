@@ -56,9 +56,9 @@ c uses `malloc` instead of new to assign memory in heap.
 	- Linked List: Collection of nodes where each node contains data and a link to the next node.
 		- Always created in heap
 		- Can have variable length - use when you don't know the size of the list
-- Logical Data Structures
-	- Stack
-	- Queue
-	- Tree
-	- Graph
-	- Hash Table
+- Logical Data Structures (implemented using )
+	- Stack (linear): LIFO - Last in First Out
+	- Queue (linear): FIFI - First in First Out
+	- Tree (nonlinear):
+	- Graph (nonlinear):
+	- Hash Table (tabular):
