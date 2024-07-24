@@ -32,3 +32,4 @@ Reference Type: Course
 ## 41. Stack vs Heap contd.
 
 - When functions are called, activation records are allocated in the stack. The active function is at the topmost layer of the stack.
+- When the function is finished executing its last statement, that function is remov
