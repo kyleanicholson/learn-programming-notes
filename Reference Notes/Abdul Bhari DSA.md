@@ -19,3 +19,4 @@ Reference Type: Course
 ## 40. Stack vs Heap Memory
 
 - Each byte of main memory has an address (single value)
+- 
