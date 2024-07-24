@@ -59,6 +59,10 @@ c uses `malloc` instead of new to assign memory in heap.
 - Logical Data Structures (implemented using physical data structures)
 	- Stack (linear): LIFO - Last in First Out
 	- Queue (linear): FIFO - First in First Out
-	- Tree (nonlinear):
-	- Graph (nonlinear):
-	- Hash Table (tabular):
+	- Tree (nonlinear)
+	- Graph (nonlinear)
+	- Hash Table (tabular)
+
+## 43. Abstract Data Type (ADT)
+
+- 
