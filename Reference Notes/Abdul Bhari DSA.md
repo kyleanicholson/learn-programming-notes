@@ -71,3 +71,8 @@ c uses `malloc` instead of new to assign memory in heap.
 	- Represented by 16 bits (2 bytes)
 	- Operations are + / - * % ++ --
 - OOP - can define our own abstract data types
+- How to represent a List?
+	- Data:  
+		- 1 - space for storing elements
+		- 2 - capacity
+		- 3 - size
