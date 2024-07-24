@@ -45,3 +45,8 @@ void main(){
 	delete [p] // Deallocates the memory
 }
 ```
+
+c uses `malloc` instead of new.
+## 42. Types of Data Structures
+
+- 
