@@ -82,7 +82,8 @@ c uses `malloc` instead of new to assign memory in heap.
 		- Remove(idx) 
 		- Set(index, element): Replace an element at a given index
 		- Get(index): Get the element at index
-		- Search(key): Search for an element to find i
+		- Search(key)/contains(key): Search for an element to find its index 
+		- Sort(): Arrange in order
 - Abstract means you don't need to know the inner workings to use the data structure - the data and operations are hidden within the class's implementation.
 
 ## 44. 
