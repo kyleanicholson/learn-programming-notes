@@ -57,3 +57,8 @@ c uses `malloc` instead of new to assign memory in heap.
 		- Always created in heap
 		- Can have variable length - use when you don't know the size of the list
 - Logical Data Structures
+	- Stack
+	- Queue
+	- Tree
+	- Graph
+	- Hash Table
