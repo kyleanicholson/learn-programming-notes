@@ -67,3 +67,6 @@ c uses `malloc` instead of new to assign memory in heap.
 
 - Representation of data
 - Operation on data
+- Integers 
+	- Represented by 16 bits (2 bytes)
+	- Operations are 
