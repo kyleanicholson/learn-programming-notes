@@ -21,7 +21,7 @@ Reference Type: Course
 - Each byte of main memory has an address (single value)
 - Larger RAM is divided into segments (often 64kb)
 - Memory segment is divided into 
-	- Code section
+	- Code section (machine code copied from HD)
 	- Stack
 	- Heap
 - Program code is brought from HDD into code section
