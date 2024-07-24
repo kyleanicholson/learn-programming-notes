@@ -76,3 +76,7 @@ c uses `malloc` instead of new to assign memory in heap.
 		- 1 - space for storing elements
 		- 2 - capacity
 		- 3 - size
+	- Operations
+		- Add(x) 
+		- Remove(x)
+		- Search(key)
