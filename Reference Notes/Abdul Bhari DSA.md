@@ -38,5 +38,9 @@ Reference Type: Course
 - Heap refers to unorganized memory - must be treated like a resource -- when required you use the memory, when not required you must release (free) the memory.
 - Programs cannot directly access heap memory-- memory is accessed and allocated using pointers.
 
-```
+```c++
+void main(){
+	int *p; // Allocated in sta
+	p = new int[5]; // Allocated in heap
+}
 ```
