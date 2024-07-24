@@ -49,7 +49,7 @@ void main(){
 c uses `malloc` instead of new to assign memory in heap.
 ## 42. Types of Data Structures
 
-- Physical Data Structures
-	- Array
+- Physical Data Structures (defines how memory is organized / allocated)
+	- Array: Collection of contiguous memory locations (fixed size)
 	- Linked List
 - Logical Data Structures
