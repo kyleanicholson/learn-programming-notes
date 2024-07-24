@@ -70,4 +70,4 @@ c uses `malloc` instead of new to assign memory in heap.
 - Integers 
 	- Represented by 16 bits (2 bytes)
 	- Operations are + / - * % ++ --
-- OOP - 
+- OOP - can define our own abstract data types
