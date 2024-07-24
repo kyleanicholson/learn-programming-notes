@@ -33,4 +33,6 @@ Reference Type: Course
 
 - When functions are called, activation records are allocated in the stack. The active function is at the topmost layer of the stack.
 - When the function has finished executing its last statement, that function's activation record is removed from the stack.
-- Stack behaves like a
+- Stack memory behaves like a 'stack' of functions
+
+- 
