@@ -77,8 +77,8 @@ c uses `malloc` instead of new to assign memory in heap.
 		- 2 - capacity
 		- 3 - size
 	- Operations
-		- Add(x) 
-		- Remove(x)
+		- Add/append(element): Add to the end of the list 
+		- Remove(x): 
 		- Search(key)
 - Abstract means you don't need to know the inner workings to use the data structure - the data and operations are hidden within the class's implementation.
 
