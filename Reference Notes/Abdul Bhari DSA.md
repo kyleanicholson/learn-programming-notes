@@ -26,4 +26,4 @@ Reference Type: Course
 	- Heap
 - Program code is brought from HDD into code section
 	- CPU starts executing
-- 
+- Memory for 
