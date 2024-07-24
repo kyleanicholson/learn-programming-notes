@@ -51,5 +51,8 @@ c uses `malloc` instead of new to assign memory in heap.
 
 - Physical Data Structures (defines how memory is organized / allocated)
 	- Array: Collection of contiguous memory locations (fixed size)
-	- Linked List
+		- Can be created in stack of heap (using pointer)
+		- Should be used when you know the maximum length of the list
+	- Linked List: Collection of nodes where each node contains data and a link to the next node.
+		- Can have variable length
 - Logical Data Structures
