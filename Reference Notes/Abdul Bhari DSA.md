@@ -46,7 +46,10 @@ void main(){
 }
 ```
 
-c uses `malloc` instead of new.
+c uses `malloc` instead of new to assign memory in heap.
 ## 42. Types of Data Structures
 
-- 
+- Physical Data Structures
+	- Array
+	- Linked List
+- Logical Data Structures
