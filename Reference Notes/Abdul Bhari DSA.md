@@ -40,7 +40,7 @@ Reference Type: Course
 
 ```c++
 void main(){
-	int *p; // Allocated in sta
+	int *p; // Allocated in stack - used to access the heap values
 	p = new int[5]; // Allocated in heap
 }
 ```
