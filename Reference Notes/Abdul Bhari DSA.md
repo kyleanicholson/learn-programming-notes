@@ -80,3 +80,4 @@ c uses `malloc` instead of new to assign memory in heap.
 		- Add(x) 
 		- Remove(x)
 		- Search(key)
+- Abstract means you don't need to know the 
