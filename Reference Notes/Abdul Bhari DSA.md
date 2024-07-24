@@ -36,4 +36,7 @@ Reference Type: Course
 - Stack memory behaves like a 'stack' of functions -- it is 'organized memory'
 
 - Heap refers to unorganized memory - must be treated like a resource -- when required you use the memory, when not required you must release (free) the memory.
-- Programs cannot directly access heap memory
+- Programs cannot directly access heap memory-- memory is accessed and allocated using pointers.
+
+```
+```
