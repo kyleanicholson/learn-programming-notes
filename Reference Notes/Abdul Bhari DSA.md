@@ -65,4 +65,5 @@ c uses `malloc` instead of new to assign memory in heap.
 
 ## 43. Abstract Data Type (ADT)
 
-- 
+- Representation of data
+- Operation on data
