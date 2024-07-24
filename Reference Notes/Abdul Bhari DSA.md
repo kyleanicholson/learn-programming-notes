@@ -54,5 +54,6 @@ c uses `malloc` instead of new to assign memory in heap.
 		- Can be created in stack of heap (using pointer)
 		- Should be used when you know the maximum length of the list
 	- Linked List: Collection of nodes where each node contains data and a link to the next node.
-		- Can have variable length
+		- Always created in heap
+		- Can have variable length - use when you don't know the size of the list
 - Logical Data Structures
