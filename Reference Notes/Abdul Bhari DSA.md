@@ -24,4 +24,6 @@ Reference Type: Course
 	- Code section
 	- Stack
 	- Heap
-- Program is brought from HDD into code section
+- Program code is brought from HDD into code section
+	- CPU starts executing
+- 
