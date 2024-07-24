@@ -42,5 +42,6 @@ Reference Type: Course
 void main(){
 	int *p; // Allocated in stack - used to access the heap values
 	p = new int[5]; // Allocated in heap
+	delete [p] // Deallocates the memory
 }
 ```
