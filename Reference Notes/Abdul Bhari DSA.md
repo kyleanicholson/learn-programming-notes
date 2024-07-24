@@ -26,6 +26,7 @@ Reference Type: Course
 	- Heap
 - Program code is brought from HDD into code section
 	- CPU starts executing
-- Memory for variables declared inside program is allocated in the stack
-	- This is known as the 'stack frame' or 'activation record' of the function
-- 
+- Static memory allocation: Memory for variables declared inside program is allocated in the stack at compile time
+	- This memory is known as the 'stack frame' or 'activation record' of the function
+
+## 41. Stack vs Heap contd.
