@@ -19,4 +19,5 @@ Reference Type: Course
 ## 40. Stack vs Heap Memory
 
 - Each byte of main memory has an address (single value)
-- 
+- Larger RAM is divided into segments (often 64kb)
+- Memory segment is divided into 
