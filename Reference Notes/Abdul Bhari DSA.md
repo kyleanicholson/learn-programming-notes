@@ -26,4 +26,6 @@ Reference Type: Course
 	- Heap
 - Program code is brought from HDD into code section
 	- CPU starts executing
-- Memory for 
+- Memory for variables declared inside program is allocated in the stack
+	- This is known as the 'stack frame' or 'activation record' of the function
+- 
