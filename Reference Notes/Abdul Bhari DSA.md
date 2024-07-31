@@ -95,4 +95,5 @@ c uses `malloc` instead of new to assign memory in heap.
 			- Nested for loop means it's n^2
 		- O(log n): When something is successively divided until it reaches 1
 			- For example, in a for loop the counter variable gets divided by 2
-		- 
+	- Matrix Operations
+		- O(n)
