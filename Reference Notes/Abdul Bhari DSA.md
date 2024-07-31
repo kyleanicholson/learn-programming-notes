@@ -114,5 +114,5 @@ x=y; // 1 unit
 y=t' // 1 unit
 }
 
-// O(1)
+// O(1) time complexity
 ```
