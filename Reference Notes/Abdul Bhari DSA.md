@@ -87,3 +87,5 @@ c uses `malloc` instead of new to assign memory in heap.
 - Abstract means you don't need to know the inner workings to use the data structure - the data and operations are hidden within the class's implementation.
 
 ## 44.  Time and Space Complexity
+
+- Time Complexity: How much time a machine takes for doing 
