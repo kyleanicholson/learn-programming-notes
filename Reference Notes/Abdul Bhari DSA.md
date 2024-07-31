@@ -99,4 +99,5 @@ c uses `malloc` instead of new to assign memory in heap.
 		- O(n^2): If you process all the elements
 		- O(n): If you only process a row or column
 	- Binary Tree
-		- 
+		- O(logn): Only  
+		- O(n): Processing all elements
