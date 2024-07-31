@@ -90,4 +90,5 @@ c uses `malloc` instead of new to assign memory in heap.
 
 - Time Complexity: How much time a machine takes -- depends on the procedure you are doing.
 	- Array operations - list of elements 'n' -- we don't know how many elements
-		- O(n): If you go through each element once. 
+		- O(n): If you go through each element once (adding or searching)
+		- 
