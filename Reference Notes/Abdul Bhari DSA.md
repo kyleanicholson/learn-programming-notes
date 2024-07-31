@@ -96,4 +96,5 @@ c uses `malloc` instead of new to assign memory in heap.
 		- O(log n): When something is successively divided until it reaches 1
 			- For example, in a for loop the counter variable gets divided by 2
 	- Matrix Operations
-		- O(n)
+		- O(n^2): If you process all the elements
+		- O(n): If you only process a row or column
