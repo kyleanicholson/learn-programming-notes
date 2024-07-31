@@ -88,4 +88,6 @@ c uses `malloc` instead of new to assign memory in heap.
 
 ## 44.  Time and Space Complexity
 
-- Time Complexity: How much time a machine takes for doing 
+- Time Complexity: How much time a machine takes -- depends on the procedure you are doing.
+	- Array operations - list of elements 'n' -- we don't know how many elements
+		- T
