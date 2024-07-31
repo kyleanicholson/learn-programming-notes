@@ -105,4 +105,10 @@ c uses `malloc` instead of new to assign memory in heap.
 	- Not concerned about the number of bytes, but rather the space relative to n (elements)
 
 ## 45. Evaluating Time and Space Complexity
-- 
+
+```c++
+void swap(x,y){
+int t;
+t = x;
+}
+```
