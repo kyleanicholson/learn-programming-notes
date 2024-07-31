@@ -109,6 +109,10 @@ c uses `malloc` instead of new to assign memory in heap.
 ```c++
 void swap(x,y){
 int t;
-t = x;
+t = x; // 1 unit
+x=y; // 1 unit
+y=t' // 1 unit
 }
+
+// O(1)
 ```
