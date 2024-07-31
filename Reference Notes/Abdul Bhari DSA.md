@@ -93,4 +93,5 @@ c uses `malloc` instead of new to assign memory in heap.
 		- O(n): If you go through each element once (adding or searching)
 		- O(n^2): If you compare each element to every other element
 			- Nested for loop means it's n^2
-		- O()
+		- O(log n): When something is successively divided until it reaches 1
+		- Ca
