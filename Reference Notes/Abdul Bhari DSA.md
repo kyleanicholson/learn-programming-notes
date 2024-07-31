@@ -103,3 +103,6 @@ c uses `malloc` instead of new to assign memory in heap.
 		- O(n): Processing all elements
 - Space Complexity: How much space is taken up in the main memory
 	- Not concerned about the number of bytes, but rather the space relative to n (elements)
+
+## 45. Evaluating Time and Space Complexity
+- 
