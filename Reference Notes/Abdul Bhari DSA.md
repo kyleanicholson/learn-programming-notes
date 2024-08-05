@@ -166,3 +166,4 @@ void main {
 
 * Each recursive call adds an activation record for the function onto the stack
 * Number of activation records depends on the number of calls.
+* Once the function ends (ie returns d.t not meeting the condition for another recursive call), its activation record
