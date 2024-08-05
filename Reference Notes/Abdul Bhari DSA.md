@@ -194,5 +194,7 @@ T(n) = { 1  n= 0
 
 Solve the recurrence relation
 ```
-T(n)
+T(n) = T(n-1) + 1
+T(n-1) = T(n-2) + 1
+T(n-2) = T(n-)
 ```
