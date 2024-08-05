@@ -139,7 +139,7 @@ void main {
 	int x = 3;
 	fun2(x)
 }
-}
+
 // Output: 3 2 1
 ```
 
@@ -170,3 +170,18 @@ void main {
 
 # 49. How to find the time complexity of recursive functions
 - Assume that every statement in a program takes one unit of time for execution
+
+``` cpp
+void fun2(int n)
+{
+	if (n > 0){      // 1 unit
+		printf("%d") // 1 unit
+		fun2(n-1);  // ?
+		 // 
+	}
+}
+void main { 
+	int x = 3;
+	fun2(x)
+}
+```
