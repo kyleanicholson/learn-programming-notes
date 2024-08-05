@@ -191,3 +191,8 @@ Write a recurrence relation
 T(n) = { 1  n= 0 
 	   { T(n-1) + 1 n > 0
 ```
+
+Solve the recurrence relation
+```
+T(n)
+```
