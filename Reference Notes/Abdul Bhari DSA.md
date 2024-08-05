@@ -165,4 +165,4 @@ void main {
 # 48. How recursion uses the stack
 
 * Each recursive call adds an activation record for the function onto the stack
-* After the 
+* Number of activation record
