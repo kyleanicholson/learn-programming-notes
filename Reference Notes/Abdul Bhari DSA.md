@@ -206,7 +206,7 @@ Substitute
 T(n) = T(n-3) + 1 + 2
 T(n) = T(n-3) + 3
 
-...
+Continue K times...
 
-T(n) = T(n-K
+T(n) = T(n-k) + k
 ```
