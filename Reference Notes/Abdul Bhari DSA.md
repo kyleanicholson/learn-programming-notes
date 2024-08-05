@@ -161,3 +161,7 @@ void main {
 }
 // Output: 1 2 3
 ```
+
+# 48. How recursion uses the stack
+
+* Each recursive call adds an activation record for the function onto the stack
