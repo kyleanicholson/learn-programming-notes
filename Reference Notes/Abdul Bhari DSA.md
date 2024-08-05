@@ -130,8 +130,9 @@ y=t' // 1 unit
 void fun2(int n)
 {
 	if (n > 0){
+		printf("%d")
 		fun2(n-1);
-		printf("%d") // 
+		 // 
 	}
 }
 void main { 
@@ -158,5 +159,5 @@ void main {
 	fun2(x)
 }
 }
-// Output: 3 2 1
+// Output: 1 2 3
 ```
