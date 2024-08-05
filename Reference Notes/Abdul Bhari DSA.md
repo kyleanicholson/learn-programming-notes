@@ -172,11 +172,11 @@ void main {
 - Assume that every statement in a program takes one unit of time for execution
 
 ``` cpp
-void fun2(int n)
+void fun2(int n) // T(n) total time
 {
 	if (n > 0){      // 1 unit
 		printf("%d") // 1 unit
-		fun2(n-1);  // ?
+		fun2(n-1);  // 
 		 // 
 	}
 }
