@@ -122,3 +122,11 @@ y=t' // 1 unit
 
 - Recursive functions call themselves. You can use tracing to visualize the recursion:
 - ![[Pasted image 20240805090706.png]]
+```cpp
+void fun2(int n)
+{
+	if (n > 0){
+		fun2(n-1)
+	}
+}
+```
