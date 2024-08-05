@@ -116,3 +116,8 @@ y=t' // 1 unit
 
 // O(1) time complexity
 ```
+
+
+# 46.  Recursion
+
+- Recursive functions call themselves. 
