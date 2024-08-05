@@ -126,7 +126,12 @@ y=t' // 1 unit
 void fun2(int n)
 {
 	if (n > 0){
-		fun2(n-1)
+		fun2(n-1);
+		printf("%d")
 	}
+}
+void main {
+	int x = 
+}
 }
 ```
