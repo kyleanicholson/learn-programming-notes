@@ -210,3 +210,13 @@ Continue K times...
 
 T(n) = T(n-k) + k
 ```
+
+Assume n-k = 0, therefore n=k
+
+```
+T(n) = T(n-k) + k
+T(n) = T(0) + n
+T(n) = 1 + n
+
+Thus, O(n) time complexity
+```
