@@ -176,7 +176,7 @@ void fun2(int n) // T(n) total time
 {
 	if (n > 0){      // 1 unit
 		printf("%d") // 1 unit
-		fun2(n-1);  // 
+		fun2(n-1);  // T(n-1)
 		 // 
 	}
 }
@@ -184,4 +184,10 @@ void main {
 	int x = 3;
 	fun2(x)
 }
+```
+
+Write a recurrence relation
+```
+T(n) = { 1  n= 0
+	   {
 ```
