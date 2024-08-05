@@ -167,3 +167,6 @@ void main {
 * Each recursive call adds an activation record for the function onto the stack
 * Number of activation records depends on the number of calls.
 * Once the function ends (ie returns d.t not meeting the condition for another recursive call), its activation record is removed from the stack.
+
+# 49. How to find the time complexity of recursive functions
+- Assume that every statement in a program takes one unit of time for execution
