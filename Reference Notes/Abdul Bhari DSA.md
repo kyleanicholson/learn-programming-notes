@@ -200,5 +200,13 @@ T(n-1) = T(n-2) + 1
 Substitute
 T(n) = T(n-2) + 1 + 1
 
-T(n-2) = 
+T(n-2) = T(n-3) + 1
+
+Substitute
+T(n) = T(n-3) + 1 + 2
+T(n) = T(n-3) + 3
+
+...
+
+T(n) = T(n-K
 ```
