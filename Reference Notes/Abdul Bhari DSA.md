@@ -120,4 +120,5 @@ y=t' // 1 unit
 
 # 46.  Recursion
 
-- Recursive functions call themselves. 
+- Recursive functions call themselves. You can use tracing to visualize the recursion:
+- ![[Pasted image 20240805090706.png]]
