@@ -1,7 +1,6 @@
 ### Meditation Retreat Planning Document
 
 ---
-
 #### **1. Destination Options**
 
 **Criteria:**

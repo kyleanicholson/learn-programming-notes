@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travel Notes/Untitled.md",
+                "file": "Travel Notes/Meditation Retreats.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travel Notes/Untitled.md",
+                "file": "Travel Notes/Meditation Retreats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travel Notes/Untitled.md",
+                "file": "Travel Notes/Meditation Retreats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travel Notes/Untitled.md"
+                "file": "Travel Notes/Meditation Retreats.md"
               }
             }
           }
@@ -155,10 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a7d37cb890782b8",
+  "active": "dae056cde0c95477",
   "lastOpenFiles": [
     "Reference Notes/Abdul Bhari DSA.md",
-    "Travel Notes/Untitled.md",
+    "Travel Notes/Meditation Retreats.md",
     "Travel Notes",
     "Files/Pasted image 20240805090706.png",
     "Reference Notes/Discrete Math MTH208.md",
