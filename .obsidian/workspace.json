@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Abdul Bhari DSA.md",
+                "file": "Travel Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Abdul Bhari DSA.md",
+                "file": "Travel Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Abdul Bhari DSA.md",
+                "file": "Travel Notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Abdul Bhari DSA.md"
+                "file": "Travel Notes/Untitled.md"
               }
             }
           }
@@ -157,9 +157,11 @@
   },
   "active": "3a7d37cb890782b8",
   "lastOpenFiles": [
+    "Reference Notes/Abdul Bhari DSA.md",
+    "Travel Notes/Untitled.md",
+    "Travel Notes",
     "Files/Pasted image 20240805090706.png",
     "Reference Notes/Discrete Math MTH208.md",
-    "Reference Notes/Abdul Bhari DSA.md",
     "Zettelkasten/What is a data structure?.md",
     "Zettelkasten/app_name.md",
     "Zettelkasten/url name and reverse().md",
@@ -193,7 +195,6 @@
     "Files/Pasted image 20230730190435.png",
     "Files/Pasted image 20230729185317.png",
     "Files/Pasted image 20220925094048.png",
-    "Files/Pasted image 20220926221218.png",
     "Files/Math 208 Discrete Mathematics.pdf",
     "Templates",
     "Files",
@@ -201,7 +202,6 @@
     "Zettelkasten",
     "javascript/tooling",
     "codepens",
-    "security",
-    "html/forms"
+    "security"
   ]
 }
