@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travel Notes/Meditation Retreats.md",
+                "file": "Zettelkasten/Computer Graph Representations.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travel Notes/Meditation Retreats.md",
+                "file": "Zettelkasten/Computer Graph Representations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travel Notes/Meditation Retreats.md",
+                "file": "Zettelkasten/Computer Graph Representations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travel Notes/Meditation Retreats.md"
+                "file": "Zettelkasten/Computer Graph Representations.md"
               }
             }
           }
@@ -155,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dae056cde0c95477",
+  "active": "3a7d37cb890782b8",
   "lastOpenFiles": [
-    "Reference Notes/Abdul Bhari DSA.md",
     "Travel Notes/Meditation Retreats.md",
+    "Zettelkasten/Untitled.md",
+    "Reference Notes/Abdul Bhari DSA.md",
     "Travel Notes",
     "Files/Pasted image 20240805090706.png",
     "Reference Notes/Discrete Math MTH208.md",
@@ -185,7 +186,6 @@
     "Zettelkasten/Zettelkasten in Obsidian.md",
     "Reference Notes/Understand Django.md",
     "Zettelkasten/url re_path.md",
-    "Templates/MOC.md",
     "Files/Pasted image 20240713131056.png",
     "Files/Pasted image 20240713125715.png",
     "Files/Pasted image 20240713125711.png",
