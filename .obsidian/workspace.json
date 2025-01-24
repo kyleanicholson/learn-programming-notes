@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UCSD/Untitled.md",
+                "file": "web frameworks/framework-basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UCSD/Untitled.md",
+                "file": "web frameworks/framework-basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UCSD/Untitled.md",
+                "file": "web frameworks/framework-basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UCSD/Untitled.md"
+                "file": "web frameworks/framework-basics.md"
               }
             }
           }
@@ -157,8 +157,10 @@
   },
   "active": "3a7d37cb890782b8",
   "lastOpenFiles": [
-    "Zettelkasten/Computer Graph Representations.md",
+    "web frameworks/Untitled.md",
+    "web frameworks/framework-basics.md",
     "UCSD/Untitled.md",
+    "Zettelkasten/Computer Graph Representations.md",
     "SMC",
     "UCSD",
     "Travel Notes/Meditation Retreats.md",
@@ -186,8 +188,6 @@
     "Zettelkasten/What is Zettelkasten.md",
     "Zettelkasten/What is a graph.md",
     "Zettelkasten/Graphs.md",
-    "Zettelkasten/Zettelkasten in Obsidian.md",
-    "Reference Notes/Understand Django.md",
     "Files/Pasted image 20240713131056.png",
     "Files/Pasted image 20240713125715.png",
     "Files/Pasted image 20240713125711.png",
