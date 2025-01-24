@@ -7,7 +7,10 @@ Tags:
 # University Library
 
 - Stack Used:
-	- 
+	- NextJs
+- Dev dependencies
+	- Prettier ()
+	- ESLint 
 
 
 ---
