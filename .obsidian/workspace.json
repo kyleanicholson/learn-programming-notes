@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web frameworks/NextJs.md",
+                "file": "Reference Notes/Discrete Math MTH208.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web frameworks/NextJs.md",
+                "file": "Reference Notes/Discrete Math MTH208.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web frameworks/NextJs.md",
+                "file": "Reference Notes/Discrete Math MTH208.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web frameworks/NextJs.md"
+                "file": "Reference Notes/Discrete Math MTH208.md"
               }
             }
           }
@@ -155,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a7d37cb890782b8",
+  "active": "dae056cde0c95477",
   "lastOpenFiles": [
-    "web frameworks/framework-basics.md",
+    "Reference Notes/Understand Django.md",
     "web frameworks/NextJs.md",
+    "web frameworks/framework-basics.md",
     "UCSD/Untitled.md",
     "Zettelkasten/Computer Graph Representations.md",
     "SMC",
@@ -187,7 +188,6 @@
     "Zettelkasten/Principle of Atomicity.md",
     "Zettelkasten/What is Zettelkasten.md",
     "Zettelkasten/What is a graph.md",
-    "Zettelkasten/Graphs.md",
     "Files/Pasted image 20240713131056.png",
     "Files/Pasted image 20240713125715.png",
     "Files/Pasted image 20240713125711.png",
