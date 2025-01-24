@@ -18,7 +18,7 @@ Tags:
 		- Enable run ESlint -- fix on save
 		- In file eslint.config.mjs: `..compat.extends("next/core-web-vitals","next/typescript", "standard", "plugin:tailwindcss/recommended", "prettier"),`
 - Fonts
-	- 
+	- A folder containing fonts can be pasted directly into the app folder
 ---
 # References
 https://www.youtube.com/watch?v=EZajJGOMWas
