@@ -21,6 +21,7 @@ Tags:
 			...compat.extends("next/core-web-vitals","next/typescript", "standard", "plugin:tailwindcss/recommended", "prettier"),
 			```
 
+* Theme
 ---
 # References
 https://www.youtube.com/watch?v=EZajJGOMWas
