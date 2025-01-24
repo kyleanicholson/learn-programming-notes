@@ -9,8 +9,9 @@ Tags:
 - Stack Used:
 	- NextJs
 - Dev dependencies
-	- Prettier ()
-	- ESLint 
+	- Prettier (`npm i --save-dev prettier`)
+		- Manually enable 
+	- ESLint  (automatically installed)
 
 
 ---
