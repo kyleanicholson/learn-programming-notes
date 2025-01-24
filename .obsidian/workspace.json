@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web frameworks/framework-basics.md",
+                "file": "web frameworks/NextJs.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web frameworks/framework-basics.md",
+                "file": "web frameworks/NextJs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web frameworks/framework-basics.md",
+                "file": "web frameworks/NextJs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web frameworks/framework-basics.md"
+                "file": "web frameworks/NextJs.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "3a7d37cb890782b8",
   "lastOpenFiles": [
-    "web frameworks/Untitled.md",
     "web frameworks/framework-basics.md",
+    "web frameworks/NextJs.md",
     "UCSD/Untitled.md",
     "Zettelkasten/Computer Graph Representations.md",
     "SMC",
