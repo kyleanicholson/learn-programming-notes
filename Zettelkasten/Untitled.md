@@ -9,12 +9,13 @@ Tags:
 - Stack Used:
 	- NextJs
 - Dev dependencies
-	- Prettier (`npm i --save-dev prettier`
+	- Prettier `npm i --save-dev prettier`
 		- Manually enable this in settings after installation (node package)
 		- Enable reformat on save
 	- ESLint  (automatically installed)
 		- Manual configuration - point to the package + find the directory 
 		- Enable run ESlint -- fix on save
+		- ![[eslint.config.mjs]]:
 
 ---
 # References
