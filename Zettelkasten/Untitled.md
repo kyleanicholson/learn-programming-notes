@@ -15,7 +15,10 @@ Tags:
 	- ESLint  (automatically installed)
 		- Manual configuration - point to the package + find the directory 
 		- Enable run ESlint -- fix on save
-		- ![[eslint.config.mjs]]:
+		- In file eslint.config.mjs"
+			```js
+			
+			```
 
 ---
 # References
