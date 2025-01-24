@@ -10,7 +10,7 @@ Tags:
 	- NextJs
 - Dev dependencies
 	- Prettier (`npm i --save-dev prettier`)
-		- Manually enable 
+		- Manually enable this in se
 	- ESLint  (automatically installed)
 
 
